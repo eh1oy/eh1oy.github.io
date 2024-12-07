@@ -1,0 +1,156 @@
+{
+	"giftTypes": [
+		{
+			"id": 10,
+			"name": "Деньги"
+		},
+		{
+			"id": 20,
+			"name": "Микрочипы"
+		},
+		{
+			"id": 7,
+			"name": "Автомобиль"
+		},
+		{
+			"id": 2,
+			"name": "Одежда (скин)"
+		}
+	],
+	"giftNormal": [
+		{
+			"description": "Игровая валюта",
+			"description_store": "Игровая валюта"
+		},
+		{
+			"description": "Микрочипы Хостинг Машины",
+			"description_store": "Микрочипы Хостинг Машины"
+		}
+	],
+	"giftLegendary": [
+		{
+			"description": "Микрочипы Хостинг Машины (ГАРАНТ.)",
+			"description_store": "Микрочипы Хостинг Машины (ГАРАНТ.)"
+		},
+		{
+			"description": "Автомобиль: Chevrolet Camaro ZL1",
+			"description_store": "Автомобиль: Comaric"
+		},
+		{
+			"description": "Автомобиль: Dodge Charger SRT",
+			"description_store": "Автомобиль: Charger"
+		},
+		{
+			"description": "Автомобиль: BMW M5 F10",
+			"description_store": "Автомобиль: Boomer 5 F10"
+		},
+		{
+			"description": "Автомобиль: Jeep Wrangler JL",
+			"description_store": "Автомобиль: Rangler"
+		},
+		{
+			"description": "Автомобиль: BMW M4 F84",
+			"description_store": "Автомобиль: Boomer 4 F84"
+		},
+		{
+			"description": "Автомобиль: Ford Raptor F-150",
+			"description_store": "Автомобиль: F Pickup"
+		},
+		{
+			"description": "Автомобиль: Mercedes-Benz GT63s",
+			"description_store": "Автомобиль: GT63s"
+		},
+		{
+			"description": "Автомобиль: BMW M4 G82",
+			"description_store": "Автомобиль: Boomer 4 G82"
+		},
+		{
+			"description": "Автомобиль: Porsche 911 Carrera S",
+			"description_store": "Автомобиль: 911 S"
+		},
+		{
+			"description": "Автомобиль: Mitsubishi Lancer EVO X",
+			"description_store": "Автомобиль: Mitsu EVA"
+		},
+		{
+			"description": "Автомобиль: BMW M5 E60",
+			"description_store": "Автомобиль: Boomer 5 E60"
+		},
+		{
+			"description": "Автомобиль: Subaru WRX STI",
+			"description_store": "Автомобиль: Syberia WinR"
+		},
+		{
+			"description": "Автомобиль: Toyota Supra (A80)",
+			"description_store": "Автомобиль: Supra (80)"
+		},
+		{
+			"description": "Автомобиль: Mercedes-Benz A45 AMG",
+			"description_store": "Автомобиль: A45"
+		},
+		{
+			"description": "Автомобиль: Mini Cooper",
+			"description_store": "Автомобиль: Little Coop"
+		},
+		{
+			"description": "Автомобиль: Nissan Silvia S15",
+			"description_store": "Автомобиль: Sliva S15"
+		},
+		{
+			"description": "Автомобиль: Xpeng P7",
+			"description_store": "Автомобиль: China Car P7"
+		},
+		{
+			"description": "Автомобиль: Lexus RCF",
+			"description_store": "Автомобиль: Luxe RCF"
+		},
+		{
+			"description": "Автомобиль: Ford 1933 HotRod",
+			"description_store": "Автомобиль: HotRoad 1933"
+		},
+		{
+			"description": "Автомобиль: Mercedes-Benz 300SL Coupe",
+			"description_store": "Автомобиль: Old Coupe"
+		},
+		{
+			"description": "Автомобиль: Porsche 911 Singer",
+			"description_store": "Автомобиль: Singer 11"
+		},
+		{
+			"description": "Автомобиль: Infiniti Q60S",
+			"description_store": "Автомобиль: Trinity 60"
+		},
+		{
+			"description": "Одежда: Опасный мужчина",
+			"description_store": "Одежда: Опасный мужчина"
+		},
+		{
+			"description": "Одежда: Дюшес красавчик",
+			"description_store": "Одежда: Дюшес красавчик"
+		},
+		{
+			"description": "Одежда: Аниме-Тян",
+			"description_store": "Одежда: Аниме-Тян"
+		},
+		{
+			"description": "Одежда: Танцор",
+			"description_store": "Одежда: Танцор"
+		},
+		{
+			"description": "Одежда: Известный блогер",
+			"description_store": "Одежда: Известный блогер"
+		},
+		{
+			"description": "Одежда: Известный аристократ",
+			"description_store": "Одежда: Известный аристократ"
+		},
+		{
+			"description": "Одежда: Известный геймер",
+			"description_store": "Одежда: Известный геймер"
+		},
+		{
+			"description": "Одежда: Девочка-кролик",
+			"description_store": "Одежда: Девочка-кролик"
+		}
+	]
+}

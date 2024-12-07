@@ -1,0 +1,1188 @@
+{
+  "Properties": [
+    {
+      "eventId": 1,
+      "miniGamesId": [
+        1,
+        2,
+        3
+      ],
+      "dates": 1732748400,
+      "color": "#6F4FCB",
+      "color2": "#C173FE",
+      "name": "ОБЛАСТЬ ТЬМЫ",
+      "bgImage": "bg_event.png",
+      "icImage": "ic_event.png",
+      "bpOfferImage": "img_bpofferimage.png",
+      "bpMultiplier": 1,
+      "bpLimit": 1000,
+      "offerImage": "img_offerimage.png",
+      "offerCost": 239,
+      "offerValue": 1000,
+      "eventCurrencyId": 23
+    }
+  ],
+  "Settings": [
+    {
+      "id": 1,
+      "name": "ТЕМНОЕ ДЕРЕВО",
+      "icImage": "ic_event.svg",
+      "objectGrades": [
+        0,
+        30,
+        50
+      ],
+      "objectImages": [
+        "img_event_grade_1.png",
+        "img_event_grade_2.png",
+        "img_event_grade_3.png"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "ЗАДАНИЯ",
+      "icImage": "ic_checklist.svg",
+      "objectImages": [
+        "img_daily_tasks.png",
+        "img_unique_tasks.png"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "РЕЙТИНГ",
+      "icImage": "ic_reward.svg",
+      "objectImages": [
+        "bg_rating_event.png"
+      ]
+    },
+    {
+      "id": 4,
+      "name": "МИНИ-ИГРЫ",
+      "icImage": "ic_game.svg",
+      "objectImages": [
+        "img_minigame_1.png",
+        "img_minigame_2.png",
+        "img_minigame_3.png"
+      ]
+    }
+  ],
+  "EventLevel": [
+    {
+      "id": 1,
+      "cost": 1500,
+      "name": "10 BC",
+      "description": "10 BC",
+      "rarity": 1,
+      "typeId": 3,
+      "internalId": 0,
+      "count": 10
+    },
+    {
+      "id": 2,
+      "cost": 1650,
+      "name": "5 EXP",
+      "description": "5 EXP",
+      "rarity": 2,
+      "typeId": 1,
+      "internalId": 0,
+      "count": 5
+    },
+    {
+      "id": 3,
+      "cost": 1750,
+      "name": "1500 BP EXP",
+      "description": "1500 BP EXP",
+      "rarity": 1,
+      "typeId": 10,
+      "internalId": 0,
+      "count": 1500
+    },
+    {
+      "id": 4,
+      "cost": 1900,
+      "name": "X20 ПЫЛЬ",
+      "description": "X20 ПЫЛЬ",
+      "rarity": 1,
+      "typeId": 21,
+      "internalId": 0,
+      "count": 20
+    },
+    {
+      "id": 5,
+      "cost": 2000,
+      "name": "Амулет",
+      "description": "Защитный Амулет",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 935,
+      "count": 1,
+      "typeReward": 1,
+      "imageName": "img_4545.png"
+    },
+    {
+      "id": 6,
+      "cost": 2200,
+      "name": "GOLD 6 Ч.",
+      "description": "VIP GOLD 6 Ч.",
+      "rarity": 2,
+      "typeId": 9,
+      "internalId": 2,
+      "count": 6
+    },
+    {
+      "id": 7,
+      "cost": 2400,
+      "name": "20 000 Р",
+      "description": "20 000 Р",
+      "rarity": 2,
+      "typeId": 2,
+      "internalId": 0,
+      "count": 20000
+    },
+    {
+      "id": 8,
+      "cost": 2500,
+      "name": "1500 BP EXP",
+      "description": "1500 BP EXP",
+      "rarity": 1,
+      "typeId": 10,
+      "internalId": 0,
+      "count": 1500
+    },
+    {
+      "id": 9,
+      "cost": 2700,
+      "name": "ЕЖЕДНЕВНЫЙ X1",
+      "description": "ЕЖЕДНЕВНЫЙ КЕЙС X1",
+      "rarity": 1,
+      "typeId": 4,
+      "internalId": 1,
+      "count": 1
+    },
+    {
+      "id": 10,
+      "cost": 2900,
+      "name": "Айко",
+      "description": "Айко",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6865,
+      "typeReward": 1,
+      "imageName": "img_6865.png"
+    },
+    {
+      "id": 11,
+      "cost": 3000,
+      "name": "15 BC",
+      "description": "15 BC",
+      "rarity": 2,
+      "typeId": 3,
+      "internalId": 0,
+      "count": 15
+    },
+    {
+      "id": 12,
+      "cost": 3200,
+      "name": "5 EXP",
+      "description": "5 EXP",
+      "rarity": 2,
+      "typeId": 1,
+      "internalId": 0,
+      "count": 5
+    },
+    {
+      "id": 13,
+      "cost": 3300,
+      "name": "1500 BP EXP",
+      "description": "1500 BP EXP",
+      "rarity": 1,
+      "typeId": 10,
+      "internalId": 0,
+      "count": 1500
+    },
+    {
+      "id": 14,
+      "cost": 3400,
+      "name": "X30 ПЫЛЬ",
+      "description": "X30 ПЫЛЬ",
+      "rarity": 1,
+      "typeId": 21,
+      "internalId": 0,
+      "count": 30
+    },
+    {
+      "id": 15,
+      "cost": 3600,
+      "name": "БОМЖА X1",
+      "description": "КЕЙС БОМЖА X1",
+      "rarity": 4,
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1,
+      "typeReward": 1
+    },
+    {
+      "id": 16,
+      "cost": 3800,
+      "name": "GOLD 12 Ч.",
+      "description": "VIP GOLD 12 Ч.",
+      "rarity": 2,
+      "typeId": 9,
+      "internalId": 2,
+      "count": 12
+    },
+    {
+      "id": 17,
+      "cost": 4000,
+      "name": "30 000 Р",
+      "description": "30 000 Р",
+      "rarity": 2,
+      "typeId": 2,
+      "internalId": 0,
+      "count": 30000
+    },
+    {
+      "id": 18,
+      "cost": 4200,
+      "name": "2000 BP EXP",
+      "description": "2000 BP EXP",
+      "rarity": 1,
+      "typeId": 10,
+      "internalId": 0,
+      "count": 2000
+    },
+    {
+      "id": 19,
+      "cost": 4400,
+      "name": "БОМЖА X1",
+      "description": "КЕЙС БОМЖА X1",
+      "rarity": 1,
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1
+    },
+    {
+      "id": 20,
+      "cost": 4800,
+      "name": "Skeleton",
+      "description": "Жилет Skeleton",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 937,
+      "count": 1,
+      "typeReward": 1,
+      "imageName": "img_7729.png"
+    },
+    {
+      "id": 21,
+      "cost": 5000,
+      "name": "20 BC",
+      "description": "20 BC",
+      "rarity": 2,
+      "typeId": 3,
+      "internalId": 0,
+      "count": 20
+    },
+    {
+      "id": 22,
+      "cost": 5200,
+      "name": "10 EXP",
+      "description": "10 EXP",
+      "rarity": 2,
+      "typeId": 1,
+      "internalId": 0,
+      "count": 10
+    },
+    {
+      "id": 23,
+      "cost": 5400,
+      "name": "2000 BP EXP",
+      "description": "2000 BP EXP",
+      "rarity": 1,
+      "typeId": 10,
+      "internalId": 0,
+      "count": 2000
+    },
+    {
+      "id": 24,
+      "cost": 5600,
+      "name": "X30 ПЫЛЬ",
+      "description": "X30 ПЫЛЬ",
+      "rarity": 1,
+      "typeId": 21,
+      "internalId": 0,
+      "count": 30
+    },
+    {
+      "id": 25,
+      "cost": 5800,
+      "name": "БОМЖА X1",
+      "description": "КЕЙС БОМЖА X1",
+      "rarity": 4,
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1
+    },
+    {
+      "id": 26,
+      "cost": 6000,
+      "name": "GOLD 1 Д.",
+      "description": "VIP GOLD 1 Д.",
+      "rarity": 2,
+      "typeId": 9,
+      "internalId": 2,
+      "count": 24
+    },
+    {
+      "id": 27,
+      "cost": 6200,
+      "name": "100 000 Р",
+      "description": "100 000 Р",
+      "rarity": 1,
+      "typeId": 2,
+      "internalId": 0,
+      "count": 100000
+    },
+    {
+      "id": 28,
+      "cost": 6400,
+      "name": "2500 BP EXP",
+      "description": "2500 BP EXP",
+      "rarity": 1,
+      "typeId": 10,
+      "internalId": 0,
+      "count": 2500
+    },
+    {
+      "id": 29,
+      "cost": 6600,
+      "name": "БОМЖА X1",
+      "description": "КЕЙС БОМЖА X1",
+      "rarity": 1,
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1
+    },
+    {
+      "id": 30,
+      "cost": 7100,
+      "name": "Hudson",
+      "nameStore": "Hudsornet",
+      "description": "Hudson Hornet",
+      "descriptionStore": "Hudsornet",
+      "rarity": 5,
+      "typeId": 5,
+      "internalId": 625,
+      "count": 0,
+      "subCount": 29,
+      "typeReward": 1,
+      "imageName": "img_625.png"
+    },
+    {
+      "id": 31,
+      "cost": 7400,
+      "name": "25 BC",
+      "description": "25 BC",
+      "rarity": 2,
+      "typeId": 3,
+      "internalId": 0,
+      "count": 25
+    },
+    {
+      "id": 32,
+      "cost": 7700,
+      "name": "10 EXP",
+      "description": "10 EXP",
+      "rarity": 2,
+      "typeId": 1,
+      "internalId": 0,
+      "count": 10
+    },
+    {
+      "id": 33,
+      "cost": 8000,
+      "name": "3000 BP EXP",
+      "description": "3000 BP EXP",
+      "rarity": 1,
+      "typeId": 10,
+      "internalId": 0,
+      "count": 3000
+    },
+    {
+      "id": 34,
+      "cost": 8300,
+      "name": "X50 ПЫЛЬ",
+      "description": "X50 ПЫЛЬ",
+      "rarity": 1,
+      "typeId": 21,
+      "internalId": 0,
+      "count": 50
+    },
+    {
+      "id": 35,
+      "cost": 8600,
+      "name": "БОМЖА X2",
+      "description": "КЕЙС БОМЖА X2",
+      "rarity": 4,
+      "typeId": 4,
+      "internalId": 2,
+      "count": 2,
+      "typeReward": 1
+    },
+    {
+      "id": 36,
+      "cost": 8900,
+      "name": "GOLD 1 Д.",
+      "description": "VIP GOLD 1 Д.",
+      "rarity": 2,
+      "typeId": 9,
+      "internalId": 2,
+      "count": 24
+    },
+    {
+      "id": 37,
+      "cost": 9200,
+      "name": "300 000 Р",
+      "description": "300 000 Р",
+      "rarity": 1,
+      "typeId": 2,
+      "internalId": 0,
+      "count": 300000
+    },
+    {
+      "id": 38,
+      "cost": 9500,
+      "name": "СТАНДАРТНЫЙ X1",
+      "description": "СТАНДАРТНЫЙ КЕЙС X1",
+      "rarity": 4,
+      "typeId": 4,
+      "internalId": 3,
+      "count": 1,
+      "typeReward": 1
+    },
+    {
+      "id": 39,
+      "cost": 9800,
+      "name": "БОМЖА X1",
+      "description": "КЕЙС БОМЖА X1",
+      "rarity": 1,
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1
+    },
+    {
+      "id": 40,
+      "cost": 10000,
+      "name": "Капрал EFC",
+      "description": "Капрал EFC",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6866,
+      "typeReward": 1,
+      "imageName": "img_6866.png"
+    },
+    {
+      "id": 41,
+      "cost": 10300,
+      "name": "40 BC",
+      "description": "40 BC",
+      "rarity": 2,
+      "typeId": 3,
+      "internalId": 0,
+      "count": 40
+    },
+    {
+      "id": 42,
+      "cost": 10600,
+      "name": "20 EXP",
+      "description": "20 EXP",
+      "rarity": 2,
+      "typeId": 1,
+      "internalId": 0,
+      "count": 20
+    },
+    {
+      "id": 43,
+      "cost": 10900,
+      "name": "3000 BP EXP",
+      "description": "3000 BP EXP",
+      "rarity": 1,
+      "typeId": 10,
+      "internalId": 0,
+      "count": 3000
+    },
+    {
+      "id": 44,
+      "cost": 11200,
+      "name": "X50 ПЫЛЬ",
+      "description": "X50 ПЫЛЬ",
+      "rarity": 1,
+      "typeId": 21,
+      "internalId": 0,
+      "count": 50
+    },
+    {
+      "id": 45,
+      "cost": 11500,
+      "name": "КЕЙС ТЬМЫ X1",
+      "description": "КЕЙС: ОБЛАСТЬ ТЬМЫ X1",
+      "rarity": 4,
+      "typeId": 4,
+      "internalId": 7,
+      "count": 1,
+      "typeReward": 1
+    },
+    {
+      "id": 46,
+      "cost": 11800,
+      "name": "PLATINUM 12 Ч.",
+      "description": "VIP PLATINUM НА 12 Ч.",
+      "rarity": 2,
+      "typeId": 9,
+      "internalId": 3,
+      "count": 12
+    },
+    {
+      "id": 47,
+      "cost": 12100,
+      "name": "500 0000 Р",
+      "description": "500 0000 Р",
+      "rarity": 1,
+      "typeId": 2,
+      "internalId": 0,
+      "count": 500000
+    },
+    {
+      "id": 48,
+      "cost": 12400,
+      "name": "КЕЙС ТЬМЫ X1",
+      "description": "КЕЙС: ОБЛАСТЬ ТЬМЫ X1",
+      "rarity": 4,
+      "typeId": 4,
+      "internalId": 7,
+      "count": 1,
+      "typeReward": 1
+    },
+    {
+      "id": 49,
+      "cost": 12700,
+      "name": "БОМЖА X1",
+      "description": "КЕЙС БОМЖА X1",
+      "rarity": 1,
+      "typeId": 4,
+      "internalId": 2,
+      "count": 1
+    },
+    {
+      "id": 50,
+      "cost": 13000,
+      "name": "FALCON XB",
+      "nameStore": "F FalcXB",
+      "description": "FORD FALCON XB",
+      "descriptionStore": "F FalcXB",
+      "rarity": 5,
+      "typeId": 5,
+      "internalId": 630,
+      "count": 0,
+      "subCount": 38,
+      "typeReward": 1,
+      "imageName": "img_630.png"
+    },
+    {
+      "id": 51,
+      "cost": 1000,
+      "name": "50 000 Р",
+      "description": "50 000 Р",
+      "rarity": 2,
+      "typeId": 2,
+      "internalId": 0,
+      "count": 50000
+    }
+  ],
+  "LimitUpgrades": [
+    {
+      "id": 0,
+      "multEventRes": 1,
+      "limitEventRes": 1000
+    },
+    {
+      "id": 1,
+      "multEventRes": 1.1,
+      "limitEventRes": 1050,
+      "costSoft": 52000,
+      "eventResGift": 100
+    },
+    {
+      "id": 2,
+      "multEventRes": 1.2,
+      "limitEventRes": 1100,
+      "costSoft": 55000,
+      "eventResGift": 200
+    },
+    {
+      "id": 3,
+      "multEventRes": 1.3,
+      "limitEventRes": 1150,
+      "costSoft": 57000,
+      "eventResGift": 300
+    },
+    {
+      "id": 4,
+      "multEventRes": 1.4,
+      "limitEventRes": 1200,
+      "costSoft": 59000,
+      "eventResGift": 400
+    },
+    {
+      "id": 5,
+      "multEventRes": 1.5,
+      "limitEventRes": 1250,
+      "costSoft": 62000,
+      "eventResGift": 500
+    },
+    {
+      "id": 6,
+      "multEventRes": 1.6,
+      "limitEventRes": 1300,
+      "costSoft": 65000,
+      "eventResGift": 600
+    },
+    {
+      "id": 7,
+      "multEventRes": 1.7,
+      "limitEventRes": 1350,
+      "costSoft": 134000,
+      "eventResGift": 700
+    },
+    {
+      "id": 8,
+      "multEventRes": 1.8,
+      "limitEventRes": 1400,
+      "costSoft": 139000,
+      "eventResGift": 800
+    },
+    {
+      "id": 9,
+      "multEventRes": 1.9,
+      "limitEventRes": 1450,
+      "costSoft": 144000,
+      "eventResGift": 900
+    },
+    {
+      "id": 10,
+      "multEventRes": 2,
+      "limitEventRes": 1500,
+      "costSoft": 149000,
+      "eventResGift": 1000
+    },
+    {
+      "id": 11,
+      "multEventRes": 2.1,
+      "limitEventRes": 1600,
+      "costSoft": 154000,
+      "eventResGift": 1100
+    },
+    {
+      "id": 12,
+      "multEventRes": 2.2,
+      "limitEventRes": 1700,
+      "costSoft": 159000,
+      "eventResGift": 1200
+    },
+    {
+      "id": 13,
+      "multEventRes": 2.3,
+      "limitEventRes": 1800,
+      "costSoft": 164000,
+      "eventResGift": 1300
+    },
+    {
+      "id": 14,
+      "multEventRes": 2.4,
+      "limitEventRes": 1900,
+      "costSoft": 253000,
+      "eventResGift": 1400
+    },
+    {
+      "id": 15,
+      "multEventRes": 2.5,
+      "limitEventRes": 2000,
+      "costSoft": 261000,
+      "eventResGift": 1500
+    },
+    {
+      "id": 16,
+      "multEventRes": 2.6,
+      "limitEventRes": 2100,
+      "costSoft": 268000,
+      "eventResGift": 1600
+    },
+    {
+      "id": 17,
+      "multEventRes": 2.7,
+      "limitEventRes": 2200,
+      "costSoft": 276000,
+      "eventResGift": 1700
+    },
+    {
+      "id": 18,
+      "multEventRes": 2.8,
+      "limitEventRes": 2300,
+      "costSoft": 283000,
+      "eventResGift": 1800
+    },
+    {
+      "id": 19,
+      "multEventRes": 2.9,
+      "limitEventRes": 2400,
+      "costSoft": 485000,
+      "eventResGift": 1900
+    },
+    {
+      "id": 20,
+      "multEventRes": 3,
+      "limitEventRes": 2500,
+      "costSoft": 495000,
+      "eventResGift": 2000
+    },
+    {
+      "id": 21,
+      "multEventRes": 3.1,
+      "limitEventRes": 2600,
+      "costSoft": 510000,
+      "eventResGift": 2100
+    },
+    {
+      "id": 22,
+      "multEventRes": 3.2,
+      "limitEventRes": 2700,
+      "costSoft": 522000,
+      "eventResGift": 2200
+    },
+    {
+      "id": 23,
+      "multEventRes": 3.3,
+      "limitEventRes": 2800,
+      "costSoft": 535000,
+      "eventResGift": 2300
+    },
+    {
+      "id": 24,
+      "multEventRes": 3.4,
+      "limitEventRes": 2900,
+      "costSoft": 547000,
+      "eventResGift": 2400
+    },
+    {
+      "id": 25,
+      "multEventRes": 3.5,
+      "limitEventRes": 3000,
+      "costSoft": 560000,
+      "eventResGift": 2500
+    },
+    {
+      "id": 26,
+      "multEventRes": 3.6,
+      "limitEventRes": 3100,
+      "costSoft": 572000,
+      "eventResGift": 2600
+    },
+    {
+      "id": 27,
+      "multEventRes": 3.7,
+      "limitEventRes": 3200,
+      "costSoft": 585000,
+      "eventResGift": 2700
+    },
+    {
+      "id": 28,
+      "multEventRes": 3.8,
+      "limitEventRes": 3300,
+      "costSoft": 595000,
+      "eventResGift": 2800
+    },
+    {
+      "id": 29,
+      "multEventRes": 3.9,
+      "limitEventRes": 3400,
+      "costSoft": 610000,
+      "eventResGift": 2900
+    },
+    {
+      "id": 30,
+      "multEventRes": 4,
+      "limitEventRes": 3500,
+      "costSoft": 1240000,
+      "eventResGift": 3000
+    }
+  ],
+  "RatingRewards": [
+    {
+      "id": 1,
+      "name": "Hot-Road F132",
+      "nameStore": "Hot-Road F133",
+      "rarity": 5,
+      "typeId": 5,
+      "internalId": 631,
+      "count": 0,
+      "subCount": 33,
+      "imageName": "img_631.png"
+    },
+    {
+      "id": 2,
+      "name": "Hot-Road F133",
+      "nameStore": "Hot-Road F134",
+      "rarity": 5,
+      "typeId": 5,
+      "internalId": 631,
+      "count": 0,
+      "subCount": 33,
+      "imageName": "img_631.png"
+    },
+    {
+      "id": 3,
+      "name": "Hot-Road F134",
+      "nameStore": "Hot-Road F135",
+      "rarity": 5,
+      "typeId": 5,
+      "internalId": 631,
+      "count": 0,
+      "subCount": 33,
+      "imageName": "img_631.png"
+    },
+    {
+      "id": 4,
+      "name": "Hot-Road F135",
+      "nameStore": "Hot-Road F136",
+      "rarity": 5,
+      "typeId": 5,
+      "internalId": 631,
+      "count": 0,
+      "subCount": 33,
+      "imageName": "img_631.png"
+    },
+    {
+      "id": 5,
+      "name": "Hot-Road F136",
+      "nameStore": "Hot-Road F137",
+      "rarity": 5,
+      "typeId": 5,
+      "internalId": 631,
+      "count": 0,
+      "subCount": 33,
+      "imageName": "img_631.png"
+    },
+    {
+      "id": 6,
+      "name": "Хиш-Миш",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6864,
+      "imageName": "img_6864.png"
+    },
+    {
+      "id": 7,
+      "name": "Хиш-Миш",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6864,
+      "imageName": "img_6864.png"
+    },
+    {
+      "id": 8,
+      "name": "Хиш-Миш",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6864,
+      "imageName": "img_6864.png"
+    },
+    {
+      "id": 9,
+      "name": "Хиш-Миш",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6864,
+      "imageName": "img_6864.png"
+    },
+    {
+      "id": 10,
+      "name": "Хиш-Миш",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6864,
+      "imageName": "img_6864.png"
+    },
+    {
+      "id": 11,
+      "name": "Хиш-Миш",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6864,
+      "imageName": "img_6864.png"
+    },
+    {
+      "id": 12,
+      "name": "Хиш-Миш",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6864,
+      "imageName": "img_6864.png"
+    },
+    {
+      "id": 13,
+      "name": "Кот-Колпак",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 936,
+      "count": 1,
+      "imageName": "img_7727.png"
+    },
+    {
+      "id": 14,
+      "name": "Кот-Колпак",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 936,
+      "count": 1,
+      "imageName": "img_7727.png"
+    },
+    {
+      "id": 15,
+      "name": "Кот-Колпак",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 936,
+      "count": 1,
+      "imageName": "img_7727.png"
+    },
+    {
+      "id": 16,
+      "name": "Кот-Колпак",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 936,
+      "count": 1,
+      "imageName": "img_7727.png"
+    },
+    {
+      "id": 17,
+      "name": "Кот-Колпак",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 936,
+      "count": 1,
+      "imageName": "img_7727.png"
+    },
+    {
+      "id": 18,
+      "name": "Кот-Колпак",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 936,
+      "count": 1,
+      "imageName": "img_7727.png"
+    },
+    {
+      "id": 19,
+      "name": "Кот-Колпак",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 936,
+      "count": 1,
+      "imageName": "img_7727.png"
+    },
+    {
+      "id": 20,
+      "name": "Кот-Колпак",
+      "rarity": 4,
+      "typeId": 11,
+      "internalId": 936,
+      "count": 1,
+      "imageName": "img_7727.png"
+    }
+  ],
+  "Tasks": [
+    {
+      "id": 1,
+      "typeId": 1,
+      "typeName": "Особое",
+      "description": "Прокачайте BlackPass до 10 уровня.",
+      "requirementDescription": "Прокачено:",
+      "count": 10,
+      "award": 10000,
+      "typeBtn": 3
+    },
+    {
+      "id": 2,
+      "typeId": 1,
+      "typeName": "Особое",
+      "description": "Купите BlackPass.",
+      "requirementDescription": "Куплено:",
+      "count": 1,
+      "award": 10000,
+      "typeBtn": 3
+    },
+    {
+      "id": 3,
+      "typeId": 1,
+      "typeName": "Особое",
+      "description": "Откройте 10 кейсов события.",
+      "requirementDescription": "Открыто:",
+      "count": 10,
+      "award": 15000,
+      "typeBtn": 4
+    },
+    {
+      "id": 4,
+      "typeId": 1,
+      "typeName": "Особое",
+      "description": "Сыграйте в мини-игры события 20 раз.",
+      "requirementDescription": "Сыграно:",
+      "count": 20,
+      "award": 5000,
+      "typeBtn": 5
+    },
+    {
+      "id": 5,
+      "typeId": 1,
+      "typeName": "Особое",
+      "description": "Заработайте 100 000 \"Темной энергии\".",
+      "requirementDescription": "Заработано:",
+      "count": 100000,
+      "award": 5000,
+      "typeBtn": 5
+    },
+    {
+      "id": 6,
+      "typeId": 1,
+      "typeName": "Особое",
+      "description": "Потратьте 10 000 BC.",
+      "requirementDescription": "Потрачено:",
+      "count": 10000,
+      "award": 10000,
+      "typeBtn": 2
+    },
+    {
+      "id": 7,
+      "typeId": 2,
+      "typeName": "Ежедневное",
+      "description": "Сыграйте в любую мини-игру события 1 раз.",
+      "requirementDescription": "Сыграно:",
+      "count": 1,
+      "award": 500,
+      "typeBtn": 5
+    },
+    {
+      "id": 8,
+      "typeId": 2,
+      "typeName": "Ежедневное",
+      "description": "Посетите \"Особняк\".",
+      "requirementDescription": "Посещено:",
+      "count": 1,
+      "award": 400,
+      "routeId": 111,
+      "typeBtn": 1
+    },
+    {
+      "id": 9,
+      "typeId": 2,
+      "typeName": "Ежедневное",
+      "description": "Достигните вершины горы в мини-игре \"Только Вверх!\" 1 раз.",
+      "requirementDescription": "Достигнуто:",
+      "count": 1,
+      "award": 500,
+      "typeBtn": 5
+    },
+    {
+      "id": 10,
+      "typeId": 2,
+      "typeName": "Ежедневное",
+      "description": "Войдите в ТОП-3 игроков в мини игре \"Адская гонка\".",
+      "requirementDescription": "Прогресс:",
+      "count": 1,
+      "award": 500,
+      "typeBtn": 5
+    },
+    {
+      "id": 11,
+      "typeId": 2,
+      "typeName": "Ежедневное",
+      "description": "Сыграйте в мини игру \"Самозванец\" не став вампиром.",
+      "requirementDescription": "Прогресс:",
+      "count": 1,
+      "award": 400,
+      "typeBtn": 5
+    },
+    {
+      "id": 12,
+      "typeId": 2,
+      "typeName": "Ежедневное",
+      "description": "Прокачайте 1 уровень BLACK PASS.",
+      "requirementDescription": "Прокачено:",
+      "count": 1,
+      "award": 300,
+      "typeBtn": 3
+    }
+  ],
+  "MiniGames": [
+    {
+      "id": 1,
+      "playable": 1,
+      "name": "Только Вверх!",
+      "imageName": "img_minigame_1.png"
+    },
+    {
+      "id": 2,
+      "playable": 1,
+      "name": "Самозванец",
+      "imageName": "img_minigame_2.png"
+    },
+    {
+      "id": 3,
+      "playable": 1,
+      "name": "Адская Гонка",
+      "imageName": "img_minigame_3.png"
+    }
+  ],
+  "Tutorial": [
+    {
+      "id": 1,
+      "header": "<font color=\"#FFC700\">Темное дерево</font>",
+      "imageName": "img_event_tutorial_1.png",
+      "description": "<font color=\"#FFC700\">Темное дерево</font> будет развиваться и расти по мере того, как вы выполняете задания, участвуете в мини-играх события и зарабатываете <font color=\"#FFC700\">Темную энергию</font>. За каждый уровень Вы получите ценную награду.<br>\r\n<font color=\"#E2310C\">Важно:</font> Заработать <font color=\"#FFC700\"> Темную энергию</font> можно только играя во время события <font color=\"#FFC700\">ОБЛАСТЬ ТЬМЫ</font>."
+    },
+    {
+      "id": 2,
+      "header": "<font color=\"#FFC700\">Рейтинг</font>",
+      "imageName": "img_event_tutorial_2.png",
+      "description": "Зарабатывайте<font color=\"#FFC700\"> Темную энергию</font>, чтобы получать очки рейтинга. Чем выше Ваше положение в таблице рейтинга, тем ценнее награды Вы можете получить.<br><font color=\"#E2310C\">Важно:</font> все награды рейтинга <font color=\"#FFC700\">уникальные</font>, и выдаются в конце события. "
+    },
+    {
+      "id": 3,
+      "header": "<font color=\"#FFC700\">Задания</font>",
+      "imageName": "img_event_tutorial_3.png",
+      "description": "Выполняйте <font color=\"#FFC700\">Ежедневные</font> и <font color=\"#FFC700\">Особые</font> задания и получайте <font color=\"#FFC700\">Темную энергию</font> для улучшения своего <font color=\"#FFC700\">Темного дерева</font>.<br>\r\n<font color=\"#E2310C\">Важно:</font> <font color=\"#FFC700\">Ежедневные</font> задания обновляются каждый день. <font color=\"#FFC700\">Особые</font> задания выполняются один раз за все событие. Благодаря ним вы можете заработать сразу большое количество <font color=\"#FFC700\">Темной энергии</font>."
+    },
+    {
+      "id": 4,
+      "header": "<font color=\"#FFC700\">Мини-игры</font>",
+      "imageName": "img_event_tutorial_4.png",
+      "description": "Мини-игры — это особые активности, доступные <font color=\"#FFC700\">только во время события</font>. Играя в них, вы зарабатываете <font color=\"#FFC700\">Темную энергию</font>.<br> Дневной лимит <font color=\"#FFC700\">Темной энергии</font> с мини-игр можно увеличить, чтобы зарабатывать больше <font color=\"#FFC700\">Темной энергии</font>. <br><br><font color=\"#E2310C\">Важно:</font> благодаря <font color=\"#FFC700\">BLACK PASS Premium</font> вы сможете сильно увеличить свой лимит <font color=\"#FFC700\">Темной энергии</font>,<br> и быстрее получить <font color=\"#FFC700\">уникальные призы</font>."
+    },
+    {
+      "id": 5,
+      "header": "<font color=\"#FFC700\">Кейсы</font>",
+      "imageName": "img_event_tutorial_5.png",
+      "description": "Открывайте <font color=\"#FFC700\"> Кейсы события</font>!<br>Помимо уникальных наград, вы можете получить еще больше <font color=\"#FFC700\">Темной энергии</font> для улучшения своего <font color=\"#FFC700\">Темного дерева</font>."
+    }
+  ]
+}

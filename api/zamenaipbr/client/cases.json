@@ -1,0 +1,2379 @@
+{
+  "settings": {
+    "maxSprayedCount": 2000,
+    "dailyCaseExp": 1000,
+    "dailyCaseLvl": 4,
+    "dailyCaseId": 1,
+    "legendaryCaseId": 5
+  },
+  "banner": {
+    "caseId": 1,
+    "caseImage": "img_case_event2.png",
+    "backGroundTitle": "КЕЙС: ОБЛАСТЬ ТЬМЫ",
+    "backGroundDescription": "Встречайте новый <font color=#FFC700>Кейс события: Область Тьмы</font><br><br><font color=#FFC700>Ваша бесплатная награда - x1 ЕЖЕДНЕВНЫЙ КЕЙС!</font><br>Прокачивайте BLACK PASS и получайте ежедневный кейс каждый день.",
+    "backGroundImage": "bg_cases_banner.png",
+    "rightImage": "img_cases_right_image.png",
+    "caseRewardsPreviewId": "7"
+  },
+  "cases": [
+    {
+      "id": 1,
+      "name": "ЕЖЕДНЕВНЫЙ КЕЙС",
+      "dates": [
+        0,
+        0
+      ],
+      "price": [
+        15,
+        150
+      ],
+      "discount": [
+        0,
+        0
+      ],
+      "discountType": 0,
+      "sale": 0,
+      "image": "img_case_daily.png",
+      "bgImage": "bg_bomj_daily_case.png",
+      "awards": [
+        {
+          "id": 1,
+          "name": "Рем.комплект",
+          "rarity": 1,
+          "type": 11,
+          "internalId": 23,
+          "count": 1,
+          "priceSprayed": 10
+        },
+        {
+          "id": 2,
+          "name": "2 EXP",
+          "rarity": 1,
+          "type": 1,
+          "internalId": 1,
+          "count": 2,
+          "priceSprayed": 0
+        },
+        {
+          "id": 3,
+          "name": "200 BP EXP",
+          "rarity": 1,
+          "type": 10,
+          "internalId": 1,
+          "count": 200,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "name": "Канистра с бензином",
+          "rarity": 1,
+          "type": 11,
+          "internalId": 21,
+          "count": 1,
+          "priceSprayed": 10
+        },
+        {
+          "id": 5,
+          "name": "4000 Р",
+          "rarity": 1,
+          "type": 2,
+          "internalId": 1,
+          "count": 4000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 6,
+          "name": "5 BC",
+          "rarity": 1,
+          "type": 3,
+          "internalId": 1,
+          "count": 5,
+          "priceSprayed": 0
+        },
+        {
+          "id": 7,
+          "name": "8000 Р",
+          "rarity": 1,
+          "type": 2,
+          "internalId": 1,
+          "count": 8000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 8,
+          "name": "10 BC",
+          "rarity": 1,
+          "type": 3,
+          "internalId": 1,
+          "count": 10,
+          "priceSprayed": 0
+        },
+        {
+          "id": 9,
+          "name": "VIP SILVER 2Ч.",
+          "rarity": 1,
+          "type": 9,
+          "internalId": 1,
+          "count": 2,
+          "priceSprayed": 10
+        },
+        {
+          "id": 10,
+          "name": "400 BP EXP",
+          "rarity": 1,
+          "type": 10,
+          "internalId": 1,
+          "count": 400,
+          "priceSprayed": 0
+        },
+        {
+          "id": 11,
+          "name": "4 EXP",
+          "rarity": 1,
+          "type": 1,
+          "internalId": 1,
+          "count": 4,
+          "priceSprayed": 0
+        },
+        {
+          "id": 12,
+          "name": "RACER SPORT",
+          "name_store": "MOTO LIGHT",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 462,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 13,
+          "name": "500 BP EXP",
+          "rarity": 1,
+          "type": 10,
+          "internalId": 1,
+          "count": 500,
+          "priceSprayed": 0
+        },
+        {
+          "id": 14,
+          "name": "20000 Р",
+          "rarity": 1,
+          "type": 2,
+          "internalId": 1,
+          "count": 20000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 15,
+          "name": "15 BC",
+          "rarity": 1,
+          "type": 3,
+          "internalId": 1,
+          "count": 15,
+          "priceSprayed": 0
+        },
+        {
+          "id": 16,
+          "name": "VIP GOLD 2Ч.",
+          "rarity": 1,
+          "type": 9,
+          "internalId": 2,
+          "count": 2,
+          "priceSprayed": 10
+        },
+        {
+          "id": 17,
+          "name": "600 BP EXP",
+          "rarity": 1,
+          "type": 10,
+          "internalId": 1,
+          "count": 600,
+          "priceSprayed": 0
+        },
+        {
+          "id": 18,
+          "name": "30000 Р",
+          "rarity": 1,
+          "type": 2,
+          "internalId": 1,
+          "count": 30000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 19,
+          "name": "6 EXP",
+          "rarity": 1,
+          "type": 1,
+          "internalId": 1,
+          "count": 6,
+          "priceSprayed": 0
+        },
+        {
+          "id": 20,
+          "name": "ВАЗ 1111",
+          "name_store": "АЗ 1111",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 549,
+          "count": 0,
+          "priceSprayed": 20
+        }
+      ],
+      "bonus": [
+        {
+          "id": 1,
+          "numberOpen": 40,
+          "name": "СТАНДАРТНЫЙ КЕЙС Х1",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_standart.png",
+          "internalId": 3,
+          "count": 1,
+          "priceSprayed": 0
+        },
+        {
+          "id": 2,
+          "numberOpen": 30,
+          "name": "СТАНДАРТНЫЙ КЕЙС Х1",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_standart.png",
+          "internalId": 3,
+          "count": 1,
+          "priceSprayed": 0
+        },
+        {
+          "id": 3,
+          "numberOpen": 20,
+          "name": "КЕЙС БОМЖА Х2",
+          "rarity": 2,
+          "type": 4,
+          "renderId": "img_case_bomj.png",
+          "internalId": 2,
+          "count": 2,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "numberOpen": 10,
+          "name": "КЕЙС БОМЖА Х1",
+          "rarity": 2,
+          "type": 4,
+          "renderId": "img_case_bomj.png",
+          "internalId": 2,
+          "count": 1,
+          "priceSprayed": 0
+        },
+        {
+          "id": 5,
+          "numberOpen": 5,
+          "name": "ЕЖЕДНЕВНЫЙ КЕЙС Х1",
+          "rarity": 1,
+          "type": 4,
+          "renderId": "img_case_daily.png",
+          "internalId": 1,
+          "count": 1,
+          "priceSprayed": 0
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "КЕЙС БОМЖА",
+      "dates": [
+        0,
+        0
+      ],
+      "price": [
+        100,
+        1000
+      ],
+      "discount": [
+        0,
+        0
+      ],
+      "discountType": 1,
+      "sale": 1,
+      "image": "img_case_bomj.png",
+      "bgImage": "bg_bomj_daily_case.png",
+      "awards": [
+        {
+          "id": 1,
+          "name": "Aprilla MXV 450",
+          "name_store": "MOTO MXV",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 468,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 2,
+          "name": "VOLKSWAGEN GOLF GTI 2",
+          "name_store": "GOAL 2",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 496,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 3,
+          "name": "75000 Р",
+          "rarity": 1,
+          "type": 2,
+          "internalId": 1,
+          "count": 75000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "name": "ВАЗ 2107",
+          "name_store": "АЗ 2107",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 404,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 5,
+          "name": "12 EXP",
+          "rarity": 1,
+          "type": 1,
+          "internalId": 1,
+          "count": 12,
+          "priceSprayed": 0
+        },
+        {
+          "id": 6,
+          "name": "ВАЗ 2108",
+          "name_store": "АЗ 2108",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 439,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 7,
+          "name": "90000 Р",
+          "rarity": 1,
+          "type": 2,
+          "internalId": 1,
+          "count": 90000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 8,
+          "name": "ВАЗ 2109",
+          "name_store": "АЗ 2109",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 492,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 9,
+          "name": "ВАЗ 2110",
+          "name_store": "АЗ 2110",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 547,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 10,
+          "name": "ВАЗ 2114",
+          "name_store": "АЗ 2114",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 458,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 11,
+          "name": "VIP SILVER 7 ДН.",
+          "rarity": 1,
+          "type": 9,
+          "internalId": 1,
+          "count": 168,
+          "priceSprayed": 20
+        },
+        {
+          "id": 12,
+          "name": "ВАЗ 2112",
+          "name_store": "АЗ 2112",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 491,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 13,
+          "name": "ВАЗ 2115",
+          "name_store": "АЗ 2115",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 585,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 14,
+          "name": "16 EXP",
+          "rarity": 1,
+          "type": 1,
+          "internalId": 1,
+          "count": 16,
+          "priceSprayed": 0
+        },
+        {
+          "id": 15,
+          "name": "120000 Р",
+          "rarity": 1,
+          "type": 2,
+          "internalId": 1,
+          "count": 120000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 16,
+          "name": "VIP GOLD 3 ДН.",
+          "rarity": 1,
+          "type": 9,
+          "internalId": 2,
+          "count": 72,
+          "priceSprayed": 20
+        },
+        {
+          "id": 17,
+          "name": "VOLVO 242DL",
+          "name_store": "242DL",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 536,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 18,
+          "name": "ВАЗ 2170",
+          "name_store": "АЗ 2170",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 529,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 19,
+          "name": "VIP PLATINUM 3 ДН.",
+          "rarity": 1,
+          "type": 9,
+          "internalId": 3,
+          "count": 72,
+          "priceSprayed": 20
+        },
+        {
+          "id": 20,
+          "name": "NIVA URBAN",
+          "name_store": "NEVA 4X4",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 542,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 21,
+          "name": "Mercedes-Benz W124",
+          "name_store": "W124",
+          "rarity": 1,
+          "type": 5,
+          "internalId": 421,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 22,
+          "name": "BMW M3 E36",
+          "name_store": "BOOMER 3 E36",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 2618,
+          "count": 0,
+          "priceSprayed": 20
+        },
+        {
+          "id": 23,
+          "name": "LADA VESTA",
+          "name_store": "NEVESTA",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 2548,
+          "count": 0,
+          "priceSprayed": 30
+        },
+        {
+          "id": 24,
+          "name": "ПОБИТЫЕ ОЧКИ",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 706,
+          "count": 1,
+          "priceSprayed": 30
+        },
+        {
+          "id": 25,
+          "name": "VOLKSWAGEN POLO",
+          "name_store": "DULO",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 516,
+          "count": 0,
+          "priceSprayed": 30
+        },
+        {
+          "id": 26,
+          "name": "РЮКЗАК СИФОНА",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 705,
+          "count": 1,
+          "priceSprayed": 30
+        },
+        {
+          "id": 27,
+          "name": "Игла преступник",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 134,
+          "count": 252,
+          "priceSprayed": 40
+        },
+        {
+          "id": 28,
+          "name": "КОРОЛЬ БОМЖЕЙ",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 134,
+          "count": 6810,
+          "priceSprayed": 40
+        }
+      ],
+      "bonus": [
+        {
+          "id": 1,
+          "numberOpen": 40,
+          "name": "Mercedes-Benz S600 W140",
+          "name_store": "S600 W140",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 467,
+          "count": 0,
+          "priceSprayed": 100
+        },
+        {
+          "id": 2,
+          "numberOpen": 30,
+          "name": "ПЫЛЬ Х150",
+          "rarity": 3,
+          "type": 21,
+          "internalId": 1,
+          "count": 150,
+          "priceSprayed": 0
+        },
+        {
+          "id": 3,
+          "numberOpen": 20,
+          "name": "КЕЙС БОМЖА Х2",
+          "rarity": 3,
+          "type": 4,
+          "renderId": "img_case_bomj.png",
+          "internalId": 2,
+          "count": 2,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "numberOpen": 10,
+          "name": "ПЫЛЬ Х100",
+          "rarity": 3,
+          "type": 21,
+          "internalId": 1,
+          "count": 100,
+          "priceSprayed": 0
+        },
+        {
+          "id": 5,
+          "numberOpen": 5,
+          "name": "КЕЙС БОМЖА Х1",
+          "rarity": 3,
+          "type": 4,
+          "renderId": "img_case_bomj.png",
+          "internalId": 2,
+          "count": 1,
+          "priceSprayed": 0
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "СТАНДАРТНЫЙ КЕЙС",
+      "dates": [
+        0,
+        0
+      ],
+      "price": [
+        700,
+        7000
+      ],
+      "discount": [
+        0,
+        0
+      ],
+      "discountType": 0,
+      "sale": 1,
+      "image": "img_case_standart.png",
+      "bgImage": "bg_default_case.png",
+      "awards": [
+        {
+          "id": 1,
+          "name": "ЗОЛОТАЯ КОРОНА",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 362,
+          "count": 1,
+          "priceSprayed": 90
+        },
+        {
+          "id": 2,
+          "name": "VIP GOLD 21 ДН.",
+          "rarity": 2,
+          "type": 9,
+          "internalId": 2,
+          "count": 504,
+          "priceSprayed": 90
+        },
+        {
+          "id": 3,
+          "name": "600000 Р",
+          "rarity": 2,
+          "type": 2,
+          "internalId": 1,
+          "count": 600000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "name": "КЕЙС ЧЕРНЫЙ",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 360,
+          "count": 1,
+          "priceSprayed": 90
+        },
+        {
+          "id": 5,
+          "name": "BMW M3 E46",
+          "name_store": "BOOMER 3 E46",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 527,
+          "count": 0,
+          "priceSprayed": 100
+        },
+        {
+          "id": 6,
+          "name": "РЫБАК",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 134,
+          "count": 11962,
+          "priceSprayed": 90
+        },
+        {
+          "id": 7,
+          "name": "600 BC",
+          "rarity": 2,
+          "type": 3,
+          "internalId": 1,
+          "count": 600,
+          "priceSprayed": 0
+        },
+        {
+          "id": 8,
+          "name": "VIP PLATINUM 15 Д.",
+          "rarity": 2,
+          "type": 9,
+          "internalId": 3,
+          "count": 360,
+          "priceSprayed": 100
+        },
+        {
+          "id": 9,
+          "name": "ACURA TSX",
+          "name_store": "TSX",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 445,
+          "count": 0,
+          "priceSprayed": 100
+        },
+        {
+          "id": 10,
+          "name": "МОПС НА СПИНУ",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 583,
+          "count": 1,
+          "priceSprayed": 100
+        },
+        {
+          "id": 11,
+          "name": "БАРХАТНЫЕ ТЯГИ ОСОБЫЕ",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 134,
+          "count": 14388,
+          "priceSprayed": 100
+        },
+        {
+          "id": 12,
+          "name": "КОРОНА ДЕМОНА",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 508,
+          "count": 1,
+          "priceSprayed": 100
+        },
+        {
+          "id": 13,
+          "name": "ХОУМИ С РАЙОНА",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 134,
+          "count": 11917,
+          "priceSprayed": 110
+        },
+        {
+          "id": 14,
+          "name": "VOLKSWAGEN GOLF GTI",
+          "name_store": "GOAL",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 589,
+          "count": 0,
+          "priceSprayed": 110
+        },
+        {
+          "id": 15,
+          "name": "BMW X5 E53",
+          "name_store": "BOOMER 5 E53",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 2568,
+          "count": 0,
+          "priceSprayed": 110
+        },
+        {
+          "id": 16,
+          "name": "NISSAN QASHQAI",
+          "name_store": "QISHQA",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 2385,
+          "count": 0,
+          "priceSprayed": 120
+        },
+        {
+          "id": 17,
+          "name": "TOYOTA CAMRY XV55",
+          "name_store": "CAMRITA 55",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 2623,
+          "count": 0,
+          "priceSprayed": 120
+        },
+        {
+          "id": 18,
+          "name": "NISSAN SILVIA S15",
+          "name_store": "SLIVA S15",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 2627,
+          "count": 0,
+          "priceSprayed": 120
+        },
+        {
+          "id": 19,
+          "name": "DUCATI SUPERSPORT S",
+          "name_store": "MOTO SUPERSPORT",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 461,
+          "count": 0,
+          "priceSprayed": 130
+        },
+        {
+          "id": 20,
+          "name": "1000000 Р",
+          "rarity": 2,
+          "type": 2,
+          "internalId": 1,
+          "count": 1000000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 21,
+          "name": "VIP PLATINUM 30 Д.",
+          "rarity": 3,
+          "type": 9,
+          "internalId": 3,
+          "count": 720,
+          "priceSprayed": 130
+        },
+        {
+          "id": 22,
+          "name": "БАРЫГА ПРЕСТУПНИК",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 134,
+          "count": 236,
+          "priceSprayed": 130
+        },
+        {
+          "id": 23,
+          "name": "BMW M5 E60",
+          "name_store": "BOOMER 5 E60",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2567,
+          "count": 0,
+          "priceSprayed": 130
+        },
+        {
+          "id": 24,
+          "name": "МЕНТ ИЗ КЛИПА",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 134,
+          "count": 11935,
+          "priceSprayed": 140
+        },
+        {
+          "id": 25,
+          "name": "SUBARU WRX STI",
+          "name_store": "SYBERIA WINR",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 560,
+          "count": 0,
+          "priceSprayed": 140
+        },
+        {
+          "id": 26,
+          "name": "ВУРДАЛААК СТРАШНЫЙ ДЕД",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 134,
+          "count": 5323,
+          "priceSprayed": 140
+        },
+        {
+          "id": 27,
+          "name": "KIA K5",
+          "name_store": "ELEGANT 5",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2584,
+          "count": 0,
+          "priceSprayed": 150
+        },
+        {
+          "id": 28,
+          "name": "BMW X5M E70",
+          "name_store": "BOOMER 5 E70",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2390,
+          "count": 0,
+          "priceSprayed": 160
+        },
+        {
+          "id": 29,
+          "name": "CHEVROLET CAMARO ZL1",
+          "name_store": "COMARIC",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 543,
+          "count": 0,
+          "priceSprayed": 200
+        },
+        {
+          "id": 30,
+          "name": "DODGE CHARGER SRT",
+          "name_store": "CHARGER",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2394,
+          "count": 0,
+          "priceSprayed": 200
+        },
+        {
+          "id": 31,
+          "name": "МАСКА СВИНА",
+          "rarity": 4,
+          "type": 11,
+          "internalId": 707,
+          "count": 1,
+          "priceSprayed": 220
+        },
+        {
+          "id": 32,
+          "name": "MERCEDES-BENZ GT63S",
+          "name_store": "GT63S",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 402,
+          "count": 0,
+          "priceSprayed": 240
+        },
+        {
+          "id": 33,
+          "name": "BMW M4 G82",
+          "name_store": "BOOMER 4 G82",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2598,
+          "count": 0,
+          "priceSprayed": 250
+        },
+        {
+          "id": 34,
+          "name": "BMW X6M F16",
+          "name_store": "BOOMER 6 F16",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 400,
+          "count": 0,
+          "priceSprayed": 260
+        },
+        {
+          "id": 35,
+          "name": "PORSCHE 911 CARRERA S",
+          "name_store": "911 S",
+          "rarity": 4,
+          "type": 5,
+          "renderId": "img_porsche_911.png",
+          "internalId": 506,
+          "count": 0,
+          "priceSprayed": 270
+        },
+        {
+          "id": 36,
+          "name": "LAMBORGHINI AVENTADOR S",
+          "name_store": "EMPERADOR",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 415,
+          "count": 0,
+          "priceSprayed": 400
+        },
+        {
+          "id": 37,
+          "name": "TESLA MODEL X",
+          "name_store": "ELECTRA X",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 2543,
+          "count": 0,
+          "priceSprayed": 400
+        }
+      ],
+      "bonus": [
+        {
+          "id": 1,
+          "numberOpen": 40,
+          "name": "PORSCHE TAYCAN",
+          "name_store": "TAIGAN",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 2581,
+          "count": 0,
+          "priceSprayed": 400
+        },
+        {
+          "id": 2,
+          "numberOpen": 30,
+          "name": "ПЫЛЬ Х300",
+          "rarity": 4,
+          "type": 21,
+          "internalId": 1,
+          "count": 300,
+          "priceSprayed": 0
+        },
+        {
+          "id": 3,
+          "numberOpen": 20,
+          "name": "СТАНДАРТНЫЙ КЕЙС Х2",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_standart.png",
+          "internalId": 3,
+          "count": 2,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "numberOpen": 10,
+          "name": "ПЫЛЬ Х200",
+          "rarity": 3,
+          "type": 21,
+          "internalId": 1,
+          "count": 200,
+          "priceSprayed": 0
+        },
+        {
+          "id": 5,
+          "numberOpen": 5,
+          "name": "СТАНДАРТНЫЙ КЕЙС Х1",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_standart.png",
+          "internalId": 3,
+          "count": 1,
+          "priceSprayed": 0
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "АВТО-КЕЙС 2.0",
+      "dates": [
+        0,
+        0
+      ],
+      "price": [
+        1200,
+        12000
+      ],
+      "discount": [
+        0,
+        5
+      ],
+      "discountType": 0,
+      "sale": 1,
+      "image": "img_case_auto.png",
+      "bgImage": "bg_auto_case.png",
+      "awards": [
+        {
+          "id": 1,
+          "name": "MITSUBISHI LANCER EVO X",
+          "name_store": "MITSU EVA",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 436,
+          "count": 0,
+          "priceSprayed": 130
+        },
+        {
+          "id": 2,
+          "name": "BMW M5 E60",
+          "name_store": "BOOMER 5 E60",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2567,
+          "count": 0,
+          "priceSprayed": 130
+        },
+        {
+          "id": 3,
+          "name": "SUBARU WRX STI",
+          "name_store": "SYBERIA WINR",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 560,
+          "count": 0,
+          "priceSprayed": 140
+        },
+        {
+          "id": 4,
+          "name": "TOYOTA CAMRY 3.5",
+          "name_store": "CAMRITA 3.5",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 550,
+          "count": 0,
+          "priceSprayed": 140
+        },
+        {
+          "id": 5,
+          "name": "KIA K5",
+          "name_store": "ELEGANT 5",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2584,
+          "count": 0,
+          "priceSprayed": 150
+        },
+        {
+          "id": 6,
+          "name": "FORD MUSTANG GT",
+          "name_store": "F MUST GT",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 603,
+          "count": 0,
+          "priceSprayed": 150
+        },
+        {
+          "id": 7,
+          "name": "TOYOTA SUPRA A80",
+          "name_store": "SUPRA",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2552,
+          "count": 0,
+          "priceSprayed": 150
+        },
+        {
+          "id": 8,
+          "name": "MERCEDES-BENZ A45 AMG",
+          "name_store": "A45",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 565,
+          "count": 0,
+          "priceSprayed": 150
+        },
+        {
+          "id": 9,
+          "name": "MINI COUNTRYMAN",
+          "name_store": "LITTLE COOP",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2609,
+          "count": 0,
+          "priceSprayed": 160
+        },
+        {
+          "id": 10,
+          "name": "VOLKSWAGEN PASSAT",
+          "name_store": "TRASSAR",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2604,
+          "count": 0,
+          "priceSprayed": 160
+        },
+        {
+          "id": 11,
+          "name": "ALFA ROMEO GUILIA",
+          "name_store": "JULIA",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 551,
+          "count": 0,
+          "priceSprayed": 160
+        },
+        {
+          "id": 12,
+          "name": "BMW X5M E70",
+          "name_store": "BOOMER 5 E70",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2390,
+          "count": 0,
+          "priceSprayed": 160
+        },
+        {
+          "id": 13,
+          "name": "INFINITI Q60S",
+          "name_store": "TRINITY 60",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 526,
+          "count": 0,
+          "priceSprayed": 160
+        },
+        {
+          "id": 14,
+          "name": "LEXUS RCF",
+          "name_store": "LUXE RCF",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2620,
+          "count": 0,
+          "priceSprayed": 170
+        },
+        {
+          "id": 15,
+          "name": "SUBARU BRZ",
+          "name_store": "SYBERIA BR",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2594,
+          "count": 0,
+          "priceSprayed": 180
+        },
+        {
+          "id": 16,
+          "name": "XPENG P7",
+          "name_store": "CHINA CAR P7",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2621,
+          "count": 0,
+          "priceSprayed": 180
+        },
+        {
+          "id": 17,
+          "name": "BMW 3-SERIES G20",
+          "name_store": "BOOMER 3 G20",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2387,
+          "count": 0,
+          "priceSprayed": 200
+        },
+        {
+          "id": 18,
+          "name": "BMW Z4 M40I",
+          "name_store": "BOOMER 4 \"КАБРИОЛЕТ\"",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 480,
+          "count": 0,
+          "priceSprayed": 200
+        },
+        {
+          "id": 19,
+          "name": "DODGE CHARGER SRT",
+          "name_store": "CHARGER",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2394,
+          "count": 0,
+          "priceSprayed": 200
+        },
+        {
+          "id": 20,
+          "name": "BMW M4 F84",
+          "name_store": "BOOMER 4 F84",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 558,
+          "count": 0,
+          "priceSprayed": 210
+        },
+        {
+          "id": 21,
+          "name": "MERCEDES-BENZ GT63S",
+          "name_store": "GT63S",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 402,
+          "count": 0,
+          "priceSprayed": 240
+        },
+        {
+          "id": 22,
+          "name": "BMW M4 G82",
+          "name_store": "BOOMER 4 G82",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2598,
+          "count": 0,
+          "priceSprayed": 250
+        },
+        {
+          "id": 23,
+          "name": "NISSAN GT-R R35",
+          "name_store": "N GT-R 35",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 502,
+          "count": 0,
+          "priceSprayed": 260
+        },
+        {
+          "id": 24,
+          "name": "DODGE RAM",
+          "name_store": "DOGGER 4X4",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2596,
+          "count": 0,
+          "priceSprayed": 260
+        },
+        {
+          "id": 25,
+          "name": "BMW X6M F16",
+          "name_store": "BMW 6 F16",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 400,
+          "count": 0,
+          "priceSprayed": 260
+        },
+        {
+          "id": 26,
+          "name": "PORSCHE PANAMERA S",
+          "name_store": "PANAMA",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 604,
+          "count": 0,
+          "priceSprayed": 260
+        },
+        {
+          "id": 27,
+          "name": "PORSCHE 911 CARRERA",
+          "name_store": "911 S",
+          "rarity": 4,
+          "type": 5,
+          "renderId": "img_porsche_911.png",
+          "internalId": 506,
+          "count": 0,
+          "priceSprayed": 270
+        },
+        {
+          "id": 28,
+          "name": "LAMBORGHINI AVENTADOR S",
+          "name_store": "EMPERADOR",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 415,
+          "count": 0,
+          "priceSprayed": 400
+        },
+        {
+          "id": 29,
+          "name": "TESLA MODEL X",
+          "name_store": "ELECTRA X",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 2543,
+          "count": 0,
+          "priceSprayed": 400
+        },
+        {
+          "id": 30,
+          "name": "MERCEDES-BENZ MAYBACH S650",
+          "name_store": "S650",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 2558,
+          "count": 0,
+          "priceSprayed": 450
+        },
+        {
+          "id": 31,
+          "name": "MERCEDES-BENZ G63 AMG",
+          "name_store": "GELIK 63",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 2573,
+          "count": 0,
+          "priceSprayed": 430
+        }
+      ],
+      "bonus": [
+        {
+          "id": 1,
+          "numberOpen": 40,
+          "name": "Ferrari LaFerrari",
+          "name_store": "Fer LFer",
+          "rarity": 5,
+          "type": 5,
+          "renderId": "img_la_ferrari.png",
+          "internalId": 668,
+          "count": 0,
+          "priceSprayed": 500
+        },
+        {
+          "id": 2,
+          "numberOpen": 30,
+          "name": "ПЫЛЬ Х500",
+          "rarity": 4,
+          "type": 21,
+          "internalId": 1,
+          "count": 500,
+          "priceSprayed": 0
+        },
+        {
+          "id": 3,
+          "numberOpen": 20,
+          "name": "АВТО-КЕЙС 2.0 Х2",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_auto.png",
+          "internalId": 4,
+          "count": 2,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "numberOpen": 10,
+          "name": "ПЫЛЬ Х300",
+          "rarity": 4,
+          "type": 21,
+          "internalId": 1,
+          "count": 300,
+          "priceSprayed": 0
+        },
+        {
+          "id": 5,
+          "numberOpen": 5,
+          "name": "АВТО-КЕЙС 2.0 Х1",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_auto.png",
+          "internalId": 4,
+          "count": 1,
+          "priceSprayed": 0
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "ОСОБЫЙ КЕЙС",
+      "dates": [
+        0,
+        0
+      ],
+      "price": [
+        10000,
+        100000
+      ],
+      "discount": [
+        0,
+        0
+      ],
+      "discountType": 0,
+      "sale": 0,
+      "image": "img_case_special.png",
+      "bgImage": "bg_special_case.png",
+      "awards": [
+        {
+          "id": 1,
+          "name": "Mercedes-Benz C63s",
+          "name_store": "C63S",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 410,
+          "count": 0,
+          "priceSprayed": 230
+        },
+        {
+          "id": 2,
+          "name": "Porsche Panamera S",
+          "name_store": "PANAMA",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 604,
+          "count": 0,
+          "priceSprayed": 260
+        },
+        {
+          "id": 3,
+          "name": "BMW M6 F12",
+          "name_store": "BOOMER 6 F12",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2389,
+          "count": 0,
+          "priceSprayed": 270
+        },
+        {
+          "id": 4,
+          "name": "BMW X7 M50i",
+          "name_store": "BOOMER 7 M50",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2574,
+          "count": 0,
+          "priceSprayed": 290
+        },
+        {
+          "id": 5,
+          "name": "Jaguar XK120",
+          "name_store": "OLD PANTHERA",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2586,
+          "count": 0,
+          "priceSprayed": 340
+        },
+        {
+          "id": 6,
+          "name": "Lamborghini Gallardo",
+          "name_store": "COLORADO",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2593,
+          "count": 0,
+          "priceSprayed": 340
+        },
+        {
+          "id": 7,
+          "name": "Mercedes-Benz 300SL Coupe",
+          "name_store": "OLD COUPE",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2585,
+          "count": 0,
+          "priceSprayed": 340
+        },
+        {
+          "id": 8,
+          "name": "Lamborghini Urus",
+          "name_store": "LUMUS",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2551,
+          "count": 0,
+          "priceSprayed": 350
+        },
+        {
+          "id": 9,
+          "name": "Lamborghini Huracan",
+          "name_store": "URAGAN",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2549,
+          "count": 0,
+          "priceSprayed": 370
+        },
+        {
+          "id": 10,
+          "name": "Chevrolet Corvette C8",
+          "name_store": "CORNET C8",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2393,
+          "count": 0,
+          "priceSprayed": 370
+        },
+        {
+          "id": 11,
+          "name": "Mercedes-Benz G65 AMG",
+          "name_store": "GELIK 65",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 579,
+          "count": 0,
+          "priceSprayed": 370
+        },
+        {
+          "id": 12,
+          "name": "Ferrari 488 Pista",
+          "name_store": "488 PIZZA",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 2619,
+          "count": 0,
+          "priceSprayed": 460
+        },
+        {
+          "id": 13,
+          "name": "Rolls-Royce Wraith",
+          "name_store": "DIAMOND",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 2583,
+          "count": 0,
+          "priceSprayed": 530
+        },
+        {
+          "id": 14,
+          "name": "Tesla CyberTruck",
+          "name_store": "Electra Truck",
+          "rarity": 5,
+          "type": 5,
+          "renderId": "img_tesla_cybertruck.png",
+          "internalId": 669,
+          "count": 0,
+          "priceSprayed": 570
+        },
+        {
+          "id": 15,
+          "name": "Rolls-Royce Cullinan",
+          "name_store": "AMBER",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 2564,
+          "count": 0,
+          "priceSprayed": 570
+        },
+        {
+          "id": 16,
+          "name": "BENTLEY Continental GT",
+          "name_store": "MATERIC",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 2591,
+          "count": 0,
+          "priceSprayed": 670
+        },
+        {
+          "id": 17,
+          "name": "BUGATTI CHIRON",
+          "name_store": "RICHON",
+          "rarity": 5,
+          "type": 5,
+          "renderId": "img_bugatti_chiron.png",
+          "internalId": 2601,
+          "count": 0,
+          "priceSprayed": 800
+        },
+        {
+          "id": 18,
+          "name": "Koenigsegg Regera",
+          "name_store": "Koenig Dominant",
+          "rarity": 5,
+          "type": 5,
+          "renderId": "img_koenigsegg_regera.png",
+          "internalId": 667,
+          "count": 0,
+          "priceSprayed": 850
+        },
+        {
+          "id": 19,
+          "name": "Bugatti Veyron",
+          "name_store": "Veneron",
+          "rarity": 5,
+          "type": 5,
+          "renderId": "img_bugatti_veyron.png",
+          "internalId": 666,
+          "count": 0,
+          "priceSprayed": 900
+        },
+        {
+          "id": 20,
+          "name": "BMW M5 F90 (ППС)",
+          "name_store": "BOOMER 5 F90 (ППС)",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 466,
+          "count": 0,
+          "subcount": 1,
+          "priceSprayed": 900
+        }
+      ],
+      "bonus": [
+        {
+          "id": 1,
+          "numberOpen": 25,
+          "name": "Bugatti W16 Mistral",
+          "name_store": "Mist 16",
+          "rarity": 5,
+          "type": 5,
+          "renderId": "img_bugatti_mistral.png",
+          "internalId": 665,
+          "count": 0,
+          "priceSprayed": 500
+        },
+        {
+          "id": 2,
+          "numberOpen": 20,
+          "name": "ПЫЛЬ Х1500",
+          "rarity": 5,
+          "type": 21,
+          "internalId": 1,
+          "count": 1500,
+          "priceSprayed": 0
+        },
+        {
+          "id": 3,
+          "numberOpen": 15,
+          "name": "ОСОБЫЙ КЕЙС Х2",
+          "rarity": 5,
+          "type": 4,
+          "renderId": "img_case_special.png",
+          "internalId": 5,
+          "count": 2,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "numberOpen": 10,
+          "name": "ПЫЛЬ Х1000",
+          "rarity": 5,
+          "type": 21,
+          "internalId": 1,
+          "count": 1000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 5,
+          "numberOpen": 5,
+          "name": "ОСОБЫЙ КЕЙС Х1",
+          "rarity": 5,
+          "type": 4,
+          "renderId": "img_case_special.png",
+          "internalId": 5,
+          "count": 1,
+          "priceSprayed": 0
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "КЕЙС: К ВЕРШИНАМ",
+      "dates": [
+        1723082400,
+        1724810400
+      ],
+      "price": [
+        900,
+        9000
+      ],
+      "discount": [
+        0,
+        5
+      ],
+      "discountType": 0,
+      "sale": 1,
+      "image": "img_case_event1.png",
+      "bgImage": "bg_event1.png",
+      "awards": [
+        {
+          "id": 1,
+          "name": "Емеля",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 134,
+          "count": 12293,
+          "priceSprayed": 100
+        },
+        {
+          "id": 2,
+          "name": "Корона демона",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 508,
+          "count": 1,
+          "priceSprayed": 100
+        },
+        {
+          "id": 3,
+          "name": "Крылья ангела",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 511,
+          "count": 1,
+          "priceSprayed": 100
+        },
+        {
+          "id": 4,
+          "name": "6000 BP EXP",
+          "rarity": 2,
+          "type": 10,
+          "internalId": 1,
+          "count": 6000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 5,
+          "name": "Маска дайвера",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 890,
+          "renderId": "img_1652.png",
+          "count": 1,
+          "priceSprayed": 100
+        },
+        {
+          "id": 6,
+          "name": "Кейс черный",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 360,
+          "count": 1,
+          "priceSprayed": 100
+        },
+        {
+          "id": 7,
+          "name": "700 BC",
+          "rarity": 2,
+          "type": 3,
+          "internalId": 1,
+          "count": 700,
+          "priceSprayed": 0
+        },
+        {
+          "id": 8,
+          "name": "Хоуми с района",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 134,
+          "count": 11917,
+          "priceSprayed": 110
+        },
+        {
+          "id": 9,
+          "name": "7000 BP EXP",
+          "rarity": 2,
+          "type": 10,
+          "internalId": 1,
+          "count": 7000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 10,
+          "name": "BMW X5 E53",
+          "name_store": "BOOMER 5 E53",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 2568,
+          "count": 0,
+          "priceSprayed": 110
+        },
+        {
+          "id": 11,
+          "name": "750000 Р",
+          "rarity": 2,
+          "type": 2,
+          "internalId": 1,
+          "count": 750000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 12,
+          "name": "Рюкзак Боксера",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 891,
+          "renderId": "img_1651.png",
+          "count": 1,
+          "priceSprayed": 120
+        },
+        {
+          "id": 13,
+          "name": "9000 BP EXP",
+          "rarity": 2,
+          "type": 10,
+          "internalId": 1,
+          "count": 9000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 14,
+          "name": "Барыга преступник",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 134,
+          "count": 236,
+          "priceSprayed": 130
+        },
+        {
+          "id": 15,
+          "name": "Водяной пистолет",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 892,
+          "renderId": "img_1653.png",
+          "count": 1,
+          "priceSprayed": 130
+        },
+        {
+          "id": 16,
+          "name": "Модница Ребекка",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 134,
+          "renderId": "img_6889.png",
+          "count": 6889,
+          "priceSprayed": 130
+        },
+        {
+          "id": 17,
+          "name": "Качок Джонс",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 134,
+          "renderId": "img_6888.png",
+          "count": 6888,
+          "priceSprayed": 140
+        },
+        {
+          "id": 18,
+          "name": "FORD Mustang GT",
+          "name_store": "F MUST",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 603,
+          "count": 0,
+          "priceSprayed": 140
+        },
+        {
+          "id": 19,
+          "name": "Nissan 240SX",
+          "name_store": "S240X",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 656,
+          "renderId": "img_656.png",
+          "count": 0,
+          "subcount": 22,
+          "priceSprayed": 160
+        },
+        {
+          "id": 20,
+          "name": "INFINITI FX50S",
+          "name_store": "Trinity XF50",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2625,
+          "count": 0,
+          "priceSprayed": 180
+        },
+        {
+          "id": 21,
+          "name": "DODGE DEMON SRT",
+          "name_store": "Demon",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 503,
+          "count": 0,
+          "priceSprayed": 230
+        },
+        {
+          "id": 22,
+          "name": "BMW M4 G82",
+          "name_store": "BOOMER 4 G82",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2598,
+          "count": 0,
+          "priceSprayed": 250
+        },
+        {
+          "id": 23,
+          "name": "Nissan GT-R R35",
+          "name_store": "N GT-R 35",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 502,
+          "count": 0,
+          "priceSprayed": 260
+        },
+        {
+          "id": 24,
+          "name": "McLaren 600 LT",
+          "name_store": "600 LT",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 451,
+          "count": 0,
+          "priceSprayed": 340
+        },
+        {
+          "id": 25,
+          "name": "Pagani Zonda 2002",
+          "name_store": "Pag Zond",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 657,
+          "renderId": "img_657.png",
+          "count": 0,
+          "subcount": 23,
+          "priceSprayed": 400
+        }
+      ],
+      "bonus": [
+        {
+          "id": 1,
+          "numberOpen": 40,
+          "name": "KIA Carnival",
+          "name_store": "Carnaval",
+          "rarity": 5,
+          "type": 5,
+          "internalId": 658,
+          "renderId": "img_658.png",
+          "count": 0,
+          "subcount": 24,
+          "priceSprayed": 100
+        },
+        {
+          "id": 2,
+          "numberOpen": 30,
+          "name": "ПЫЛЬ Х350",
+          "rarity": 4,
+          "type": 21,
+          "internalId": 1,
+          "count": 350,
+          "priceSprayed": 0
+        },
+        {
+          "id": 3,
+          "numberOpen": 20,
+          "name": "КЕЙС: К ВЕРШИНАМ Х2",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_event1.png",
+          "internalId": 6,
+          "count": 2,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "numberOpen": 10,
+          "name": "ПЫЛЬ Х200",
+          "rarity": 4,
+          "type": 21,
+          "internalId": 1,
+          "count": 200,
+          "priceSprayed": 0
+        },
+        {
+          "id": 5,
+          "numberOpen": 5,
+          "name": "КЕЙС: К ВЕРШИНАМ Х1",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_event1.png",
+          "internalId": 6,
+          "count": 1,
+          "priceSprayed": 0
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "КЕЙС: ОБЛАСТЬ ТЬМЫ",
+      "dates": [
+        1730340000,
+        1732759200
+      ],
+      "price": [
+        900,
+        9000
+      ],
+      "discount": [
+        0,
+        5
+      ],
+      "discountType": 0,
+      "sale": 1,
+      "image": "img_case_event2.png",
+      "bgImage": "bg_event2.png",
+      "awards": [
+        {
+          "id": 1,
+          "name": "Емеля",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 134,
+          "count": 12293,
+          "priceSprayed": 100
+        },
+        {
+          "id": 2,
+          "name": "Кейс черный",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 360,
+          "count": 1,
+          "priceSprayed": 100
+        },
+        {
+          "id": 3,
+          "name": "Живая Росянка",
+          "rarity": 2,
+          "type": 11,
+          "renderId": "img_4547.png",
+          "internalId": 940,
+          "count": 1,
+          "priceSprayed": 120
+        },
+        {
+          "id": 4,
+          "name": "Крылья ангела",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 511,
+          "count": 1,
+          "priceSprayed": 100
+        },
+        {
+          "id": 5,
+          "name": "Шлем Bunny",
+          "rarity": 2,
+          "type": 11,
+          "renderId": "img_10492.png",
+          "internalId": 939,
+          "count": 1,
+          "priceSprayed": 100
+        },
+        {
+          "id": 6,
+          "name": "700 BC",
+          "rarity": 2,
+          "type": 3,
+          "internalId": 1,
+          "count": 700,
+          "priceSprayed": 0
+        },
+        {
+          "id": 7,
+          "name": "7000 BP EXP",
+          "rarity": 2,
+          "type": 10,
+          "internalId": 1,
+          "count": 7000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 8,
+          "name": "Хоуми с района",
+          "rarity": 2,
+          "type": 11,
+          "internalId": 134,
+          "count": 11917,
+          "priceSprayed": 110
+        },
+        {
+          "id": 9,
+          "name": "Темная энергия Х3000",
+          "rarity": 2,
+          "type": 23,
+          "renderId": "img_event_res_cases.png",
+          "internalId": 1,
+          "count": 3000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 10,
+          "name": "BMW X5 E53",
+          "name_store": "BOOMER 5 E53",
+          "rarity": 2,
+          "type": 5,
+          "internalId": 2568,
+          "count": 0,
+          "priceSprayed": 110
+        },
+        {
+          "id": 11,
+          "name": "Книга Тайн",
+          "rarity": 3,
+          "type": 11,
+          "renderId": "img_4546.png",
+          "internalId": 938,
+          "count": 1,
+          "priceSprayed": 140
+        },
+        {
+          "id": 12,
+          "name": "Токсичная",
+          "rarity": 3,
+          "type": 11,
+          "renderId": "img_6868.png",
+          "internalId": 134,
+          "count": 6868,
+          "priceSprayed": 140
+        },
+        {
+          "id": 13,
+          "name": "Барыга преступник",
+          "rarity": 3,
+          "type": 11,
+          "internalId": 134,
+          "count": 236,
+          "priceSprayed": 130
+        },
+        {
+          "id": 14,
+          "name": "FORD MUSTANG GT",
+          "name_store": "F MUST GT",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 603,
+          "count": 0,
+          "priceSprayed": 140
+        },
+        {
+          "id": 15,
+          "name": "Темная энергия Х7500",
+          "rarity": 3,
+          "type": 23,
+          "renderId": "img_event_res_cases.png",
+          "internalId": 1,
+          "count": 7500,
+          "priceSprayed": 0
+        },
+        {
+          "id": 16,
+          "name": "INFINITI FX50S",
+          "name_store": "Trinity XF50",
+          "rarity": 3,
+          "type": 5,
+          "internalId": 2625,
+          "count": 0,
+          "priceSprayed": 180
+        },
+        {
+          "id": 17,
+          "name": "Темная энергия Х5000",
+          "rarity": 3,
+          "type": 23,
+          "renderId": "img_event_res_cases.png",
+          "internalId": 1,
+          "count": 5000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 18,
+          "name": "Ванко Одержимый",
+          "rarity": 4,
+          "type": 11,
+          "renderId": "img_6867.png",
+          "internalId": 134,
+          "count": 6867,
+          "priceSprayed": 160
+        },
+        {
+          "id": 19,
+          "name": "DODGE DEMON SRT",
+          "name_store": "Demon",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 503,
+          "count": 0,
+          "priceSprayed": 230
+        },
+        {
+          "id": 20,
+          "name": "Темная энергия Х15000",
+          "rarity": 4,
+          "type": 23,
+          "renderId": "img_event_res_cases.png",
+          "internalId": 1,
+          "count": 15000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 21,
+          "name": "BMW M4 G82",
+          "name_store": "BOOMER 4 G82",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 2598,
+          "count": 0,
+          "priceSprayed": 250
+        },
+        {
+          "id": 22,
+          "name": "Nissan GT-R R35",
+          "name_store": "N GT-R 35",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 502,
+          "count": 0,
+          "priceSprayed": 260
+        },
+        {
+          "id": 23,
+          "name": "McLaren 600 LT",
+          "name_store": "600 LT",
+          "rarity": 4,
+          "type": 5,
+          "internalId": 451,
+          "count": 0,
+          "priceSprayed": 340
+        },
+        {
+          "id": 24,
+          "name": "Mitsubishi Ecliplse",
+          "name_store": "Mitsu Clips",
+          "rarity": 4,
+          "type": 5,
+          "renderId": "img_633.png",
+          "internalId": 633,
+          "count": 0,
+          "subcount": 35,
+          "priceSprayed": 180
+        },
+        {
+          "id": 25,
+          "name": "SCG 003",
+          "name_store": "SCG 003",
+          "rarity": 5,
+          "type": 5,
+          "renderId": "img_632.png",
+          "internalId": 632,
+          "count": 0,
+          "subcount": 34,
+          "priceSprayed": 490
+        }
+      ],
+      "bonus": [
+        {
+          "id": 1,
+          "numberOpen": 40,
+          "name": "Smart Fortwo 2",
+          "name_store": "Smart2",
+          "rarity": 5,
+          "type": 5,
+          "renderId": "img_634.png",
+          "internalId": 634,
+          "count": 0,
+          "subcount": 36,
+          "priceSprayed": 200
+        },
+        {
+          "id": 2,
+          "numberOpen": 30,
+          "name": "Темная энергия Х10000",
+          "rarity": 4,
+          "type": 23,
+          "renderId": "img_event_res_cases.png",
+          "internalId": 1,
+          "count": 10000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 3,
+          "numberOpen": 20,
+          "name": "КЕЙС: ОБЛАСТЬ ТЬМЫ Х2",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_event2.png",
+          "internalId": 7,
+          "count": 2,
+          "priceSprayed": 0
+        },
+        {
+          "id": 4,
+          "numberOpen": 10,
+          "name": "Темная энергия Х5000",
+          "rarity": 4,
+          "type": 23,
+          "renderId": "img_event_res_cases.png",
+          "internalId": 1,
+          "count": 5000,
+          "priceSprayed": 0
+        },
+        {
+          "id": 5,
+          "numberOpen": 5,
+          "name": "КЕЙС: ОБЛАСТЬ ТЬМЫ Х1",
+          "rarity": 4,
+          "type": 4,
+          "renderId": "img_case_event2.png",
+          "internalId": 7,
+          "count": 1,
+          "priceSprayed": 0
+        }
+      ]
+    }
+  ]
+}
