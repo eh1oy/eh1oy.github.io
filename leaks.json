@@ -1,0 +1,27 @@
+[
+    {
+        "title": "APIPY",
+        "description": "Инструмент для создания своего api.json, который используется для работы с автоустановкой BLACK RUSSIA, поддерживается создание либо скачивание кеша по api.json",
+        "download_link": "sliv/apipy.zip"
+    },
+    {
+        "title": "json",
+        "description": "Инструмент для скачивания всех .json файлов, которые используются для BLACK RUSSIA и многих других CR:MP Mobile",
+        "download_link": "sliv/json.zip"
+    },
+    {
+        "title": "BLACK RUSSIA 16.0.21 SYNC (NEW ENGINE)",
+        "description": "BLACK RUSSIA 16.0.21 SYNC замена IP новый движок с синхронизацией",
+        "download_link": "https://www.dropbox.com/scl/fi/dv3bkvx207uwdognk1eob/source-br-neweng-sync.zip?rlkey=5v87jbtpepz3f4h9e9a45npmy&st=8s3p0efl&dl=1"
+    },
+    {
+        "title": "EH1OY Оффициальный сайт",
+        "description": "EH1OY Оффициальный сайт, на котором вы сейчас находитесь",
+        "download_link": "sliv/eh1oy-site.zip"
+    },
+    {
+        "title": "BLACK RUSSIA 16.0.21 JAVA",
+        "description": "JAVA исходники BLACK RUSSIA 16.0.21 (NEW ENGINE), с ошибками при компиляции",
+        "download_link": "https://codeload.github.com/eh1oy/java-newbr/zip/refs/heads/main"
+    }
+]
