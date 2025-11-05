@@ -1,0 +1,439 @@
+{
+  "bonus_days": [
+    {
+      "count": 1,
+      "description": "КЕЙС БОМЖА",
+      "id": 5,
+      "internalId": 2,
+      "name": "БОМЖА",
+      "rarity": 2,
+      "typeId": 4,
+      "typeReward": 0
+    },
+    {
+      "count": 1,
+      "description": "КЕЙС БОМЖА",
+      "id": 10,
+      "internalId": 2,
+      "name": "БОМЖА",
+      "rarity": 2,
+      "typeId": 4,
+      "typeReward": 0
+    },
+    {
+      "count": 1,
+      "description": "КЕЙС БОМЖА",
+      "id": 15,
+      "internalId": 2,
+      "name": "БОМЖА",
+      "rarity": 2,
+      "typeId": 4,
+      "typeReward": 0
+    },
+    {
+      "count": 2,
+      "description": "КЕЙС БОМЖА Х2",
+      "id": 20,
+      "internalId": 2,
+      "name": "БОМЖА Х2",
+      "rarity": 3,
+      "typeId": 4,
+      "typeReward": 0
+    },
+    {
+      "count": 1,
+      "description": "СТАНДАРТНЫЙ КЕЙС",
+      "id": 30,
+      "internalId": 3,
+      "name": "СТАНДАРТНЫЙ",
+      "rarity": 4,
+      "typeId": 4,
+      "typeReward": 0
+    }
+  ],
+  "main_days": [
+    {
+      "id": 1,
+      "rarity": 2,
+      "name": "VIP GOLD",
+      "description": "VIP GOLD НА 8 ч.",
+      "typeId": 9,
+      "internalId": 2,
+      "count": 8,
+      "typeReward": 0
+    },
+    {
+      "id": 2,
+      "rarity": 2,
+      "name": "10 BC",
+      "description": "10 BC",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 10,
+      "typeReward": 0
+    },
+    {
+      "id": 3,
+      "rarity": 2,
+      "name": "2500 BP EXP",
+      "description": "2500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 2500,
+      "typeReward": 0
+    },
+    {
+      "id": 4,
+      "rarity": 1,
+      "name": "AUDI 12Ч.",
+      "description": "AUDI A4 НА 12Ч.",
+      "nameStore": "AURA 12Ч.",
+      "descriptionStore": "AURA 4 НА 12Ч.",
+      "typeId": 5,
+      "internalId": 507,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_aura.png"
+    },
+    {
+      "id": 5,
+      "rarity": 2,
+      "name": "X2 НА 24ч",
+      "description": "X2 КУПОН НА 24 ч.",
+      "typeId": 8,
+      "internalId": 0,
+      "count": 24,
+      "typeReward": 0
+    },
+    {
+      "id": 6,
+      "rarity": 1,
+      "name": "10000 ₽",
+      "description": "10000 ₽",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 10000,
+      "typeReward": 0
+    },
+    {
+      "id": 7,
+      "rarity": 4,
+      "name": "ШЛЕМ",
+      "description": "ШЛЕМ SPEEDSTER",
+      "typeId": 11,
+      "internalId": 942,
+      "count": 1,
+      "typeReward": 1,
+      "imageName": "img_14641.png"
+    },
+    {
+      "id": 8,
+      "rarity": 1,
+      "name": "SILVER VIP",
+      "description": "VIP SILVER НА 8Ч.",
+      "typeId": 9,
+      "internalId": 1,
+      "count": 8,
+      "typeReward": 0
+    },
+    {
+      "id": 9,
+      "rarity": 2,
+      "name": "10 BC",
+      "description": "10 BC",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 10,
+      "typeReward": 0
+    },
+    {
+      "id": 10,
+      "rarity": 2,
+      "name": "2500 BP EXP",
+      "description": "2500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 2500,
+      "typeReward": 0
+    },
+    {
+      "id": 11,
+      "rarity": 1,
+      "name": "CAMRY 12Ч.",
+      "description": "TOYOTA CAMRY 2019 НА 12ч.",
+      "nameStore": "CAMRITA 12Ч.",
+      "descriptionStore": "CAMRITA 2019 НА 12 ч.",
+      "typeId": 5,
+      "internalId": 550,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_camrita.png",
+      "//": " "
+    },
+    {
+      "id": 12,
+      "rarity": 2,
+      "name": "3 EXP",
+      "description": "3 EXP",
+      "typeId": 1,
+      "internalId": 0,
+      "count": 3,
+      "typeReward": 0
+    },
+    {
+      "id": 13,
+      "rarity": 1,
+      "name": "12500 ₽",
+      "description": "12500 ₽",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 12500,
+      "typeReward": 0
+    },
+    {
+      "id": 14,
+      "rarity": 4,
+      "name": "ФЛЭШКА",
+      "description": "ФЛЭШКА",
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6873,
+      "typeReward": 1,
+      "imageName": "img_6873.png"
+    },
+    {
+      "id": 15,
+      "rarity": 1,
+      "name": "VIP SILVER",
+      "description": "VIP SILVER НА 8Ч.",
+      "typeId": 9,
+      "internalId": 1,
+      "count": 8,
+      "typeReward": 0
+    },
+    {
+      "id": 16,
+      "rarity": 2,
+      "name": "15 BC",
+      "description": "15 BC",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 15,
+      "typeReward": 0
+    },
+    {
+      "id": 17,
+      "rarity": 2,
+      "name": "2500 BP EXP",
+      "description": "2500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 2500,
+      "typeReward": 0
+    },
+    {
+      "id": 18,
+      "rarity": 1,
+      "name": "KIA 12ч.",
+      "description": "KIA K5 GT LINE НА 12ч.",
+      "nameStore": "ELEGANT 12ч.",
+      "descriptionStore": "ELEGANT 5 НА 12ч.",
+      "typeId": 5,
+      "internalId": 2584,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_elegant.png"
+    },
+    {
+      "id": 19,
+      "rarity": 2,
+      "name": "5 EXP",
+      "description": "5 EXP",
+      "typeId": 1,
+      "internalId": 0,
+      "count": 5,
+      "typeReward": 0
+    },
+    {
+      "id": 20,
+      "rarity": 1,
+      "name": "15000 ₽",
+      "description": "15000 ₽",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 15000,
+      "typeReward": 0
+    },
+    {
+      "id": 21,
+      "rarity": 4,
+      "name": "СУМКА",
+      "description": "СУМКА CROSSTRACK",
+      "typeId": 11,
+      "internalId": 943,
+      "count": 1,
+      "typeReward": 1,
+      "imageName": "img_10488.png"
+    },
+    {
+      "id": 22,
+      "rarity": 1,
+      "name": "VIP SILVER",
+      "description": "VIP SILVER НА 8Ч.",
+      "typeId": 9,
+      "internalId": 1,
+      "count": 8,
+      "typeReward": 0
+    },
+    {
+      "id": 23,
+      "rarity": 2,
+      "name": "20 BC",
+      "description": "20 BC",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 20,
+      "typeReward": 0
+    },
+    {
+      "id": 24,
+      "rarity": 2,
+      "name": "2500 BP EXP",
+      "description": "2500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 2500,
+      "typeReward": 0
+    },
+    {
+      "id": 25,
+      "rarity": 1,
+      "name": "BMW 12Ч.",
+      "description": "BMW M4 F84 НА 12Ч.",
+      "nameStore": "BOOMER 2Ч.",
+      "descriptionStore": "BOOMER 4 F84 НА 12Ч.",
+      "typeId": 5,
+      "internalId": 558,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_boomer.png"
+    },
+    {
+      "id": 26,
+      "rarity": 2,
+      "name": "6 EXP",
+      "description": "6 EXP",
+      "typeId": 1,
+      "internalId": 0,
+      "count": 6,
+      "typeReward": 0
+    },
+    {
+      "id": 27,
+      "rarity": 1,
+      "name": "17500 ₽",
+      "description": "17500 ₽",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 17500,
+      "typeReward": 0
+    },
+    {
+      "id": 28,
+      "rarity": 4,
+      "name": "СПЕКТР",
+      "description": "СПЕКТР",
+      "typeId": 11,
+      "internalId": 134,
+      "count": 6874,
+      "typeReward": 1,
+      "imageName": "img_6874.png"
+    },
+    {
+      "id": 29,
+      "rarity": 1,
+      "name": "VIP SILVER",
+      "description": "VIP SILVER НА 8Ч.",
+      "typeId": 9,
+      "internalId": 1,
+      "count": 8,
+      "typeReward": 0
+    },
+    {
+      "id": 30,
+      "rarity": 2,
+      "name": "25 BC",
+      "description": "25 BC",
+      "typeId": 3,
+      "internalId": 0,
+      "count": 25,
+      "typeReward": 0
+    },
+    {
+      "id": 31,
+      "rarity": 2,
+      "name": "2500 BP EXP",
+      "description": "2500 BLACK PASS EXP",
+      "typeId": 10,
+      "internalId": 0,
+      "count": 2500,
+      "typeReward": 0
+    },
+    {
+      "id": 32,
+      "rarity": 1,
+      "name": "TAYCAN 12Ч.",
+      "description": "PORSCHE TAYCAN НА 12Ч.",
+      "nameStore": "TAIGAN 12Ч.",
+      "descriptionStore": "TAIGAN X НА 12Ч.",
+      "typeId": 5,
+      "internalId": 2581,
+      "count": 12,
+      "typeReward": 0,
+      "imageName": "img_taigan.png"
+    },
+    {
+      "id": 33,
+      "rarity": 2,
+      "name": "9 EXP",
+      "description": "9 EXP",
+      "typeId": 1,
+      "internalId": 0,
+      "count": 9,
+      "typeReward": 0
+    },
+    {
+      "id": 34,
+      "rarity": 1,
+      "name": "20000 ₽",
+      "description": "20000 ₽",
+      "typeId": 2,
+      "internalId": 0,
+      "count": 20000,
+      "typeReward": 0
+    },
+    {
+      "id": 35,
+      "rarity": 5,
+      "name": "Ford Focus RS",
+      "description": "Ford Focus RS",
+      "nameStore": "Hocus RS",
+      "descriptionStore": "Hocus Mocus RS",
+      "typeId": 5,
+      "internalId": 587,
+      "count": 0,
+      "subCount": 39,
+      "typeReward": 1,
+      "imageName": "img_587.png"
+    }
+  ],
+  "properties": {
+    "bg_season_calendar": "bg_season_calendar.png",
+    "days_color_one": "#FFFFFFFF",
+    "days_color_two": "#E2310C",
+    "ic_season_calendar": "ic_season_calendar.svg",
+    "season_color": "#FFE2310C",
+    "season_days": 49,
+    "season_name": "НОВОГОДНИЙ ДРАЙВ"
+  }
+}

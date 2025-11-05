@@ -1,0 +1,21 @@
+{
+  "waitTimeDuration": 5,
+  "skipButtonTime": 3,
+  "videos": [
+    {
+      "comment": "синематик информатор",
+      "videoName": "ny2024_cinematic1",
+      "skipFlag": 0
+    },
+    {
+      "comment": "синематик 1 квеста Петр",
+      "videoName": "ny2024_cinematic2",
+      "skipFlag": 0
+    },
+    {
+      "comment": "синематик 2 квеста Виктор",
+      "videoName": "ny2024_cinematic3",
+      "skipFlag": 0
+    }
+  ]
+}

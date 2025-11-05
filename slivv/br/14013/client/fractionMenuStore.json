@@ -1,0 +1,69 @@
+{
+  "fractionMenuStore":
+  [
+    {
+      "uniqueID": 1,
+      "title": "Случайный товар",
+      "typeID": 3,
+      "objectID": 18526,
+      "itemID": 0,
+      "price": 60
+    },
+    {
+      "uniqueID": 2,
+      "title": "Катана",
+      "typeID": 0,
+      "objectID": 7378,
+      "itemID": 442,
+      "price": 50
+    },
+    {
+      "uniqueID": 3,
+      "title": "Панама Stone",
+      "typeID": 0,
+      "objectID": 7344,
+      "itemID": 408,
+      "price": 50
+    },
+    {
+      "uniqueID": 4,
+      "title": "Медведь",
+      "typeID": 0,
+      "objectID": 7374,
+      "itemID": 438,
+      "price": 70
+    },
+    {
+      "uniqueID": 5,
+      "title": "Акула",
+      "typeID": 0,
+      "objectID": 7387,
+      "itemID": 451,
+      "price": 90
+    },
+    {
+      "uniqueID": 6,
+      "title": "Лодка",
+      "typeID": 0,
+      "objectID": 7385,
+      "itemID": 449,
+      "price": 80
+    },
+    {
+      "uniqueID": 7,
+      "title": "Пакет",
+      "typeID": 0,
+      "objectID": 7397,
+      "itemID": 461,
+      "price": 70
+    },
+    {
+      "uniqueID": 8,
+      "title": "Гитара",
+      "typeID": 0,
+      "objectID": 7390,
+      "itemID": 454,
+      "price": 50
+    }
+  ]
+}
