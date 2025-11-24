@@ -1,0 +1,4281 @@
+{
+    "settings":{
+        "vipProbAdd": 0.1
+    },
+    "items": [
+        {
+            "internal_id": 1,
+            "game_id": 729,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Балалайка",
+            "item_description": "Народный струнный музыкальный инструмент",
+            "image_CDN": "img_1997.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 84,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 47,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 40,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 2,
+            "game_id": 730,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Боксерский шлем старшего брата",
+            "item_description": "Потертый, видавший виды шлем",
+            "image_CDN": "img_1991.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 85,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 44,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 48,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 3,
+            "game_id": 731,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Деревянная корона",
+            "item_description": "Головной убор правящих особ, только из дерева",
+            "image_CDN": "img_2001.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 87,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 47,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 4,
+            "game_id": 732,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Деревянный шлем",
+            "item_description": "В принципе, голову защитит, но рассчитывать сильно не стоит",
+            "image_CDN": "img_1984.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 88,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 47,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 42,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 5,
+            "game_id": 733,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Детский спасательный жилет",
+            "item_description": "Когда-то был по размеру",
+            "image_CDN": "img_1992.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 89,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 6,
+            "game_id": 734,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Камера от тракторного колеса",
+            "item_description": "Весело везде! Хоть зимой по снегу, хоть летом на воде",
+            "image_CDN": "img_2005.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 91,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 41,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 7,
+            "game_id": 735,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Кепка Таксист",
+            "item_description": "Раритет, таких уже не носят",
+            "image_CDN": "img_1986.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 92,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 44,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 8,
+            "game_id": 736,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Маска пакет",
+            "item_description": "Бумажный пакет с парой отверстий для глаз",
+            "image_CDN": "img_2006.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 97,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 74,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 9,
+            "game_id": 737,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Правая боксерская перчатка",
+            "item_description": "Интересно, куда подевалась левая?",
+            "image_CDN": "img_1982.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 101,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 44,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 10,
+            "game_id": 738,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Рога оленя",
+            "item_description": "Можно повесить на стену, а можно и на голову прицепить",
+            "image_CDN": "img_1998.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 103,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 47,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 11,
+            "game_id": 739,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Шапка ушанка",
+            "item_description": "Теплая шапка моего дедушки",
+            "image_CDN": "img_1987.png",
+            "item_class_id": 1,
+            "stack": 1,
+            "crafting_time_sec": 600,
+            "crafting_chance_percent": 0.6,
+            "item_weight": 3.0,
+            "crafting_cost": 5000,
+            "crafting_exp": 100,
+            "crafting_components": [
+                {
+                    "component_id": 104,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 44,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 12,
+            "game_id": 740,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Банная шапка BLACK RUSSIA",
+            "item_description": "Сохранит голову в самой горячей ситуации",
+            "image_CDN": "img_2003.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 105,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 53,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 13,
+            "game_id": 741,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Банный веник",
+            "item_description": "Дубовый веник, подарит истинное удовольствие",
+            "image_CDN": "img_1999.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 106,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 74,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 14,
+            "game_id": 742,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Баян",
+            "item_description": "Обычный баян, к нему бы умение играть",
+            "image_CDN": "img_1980.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 107,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 48,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 15,
+            "game_id": 644,
+            "visibility": 1,
+            "item_category": 4,
+            "item_name": "Анаконда",
+            "item_description": "Добротный мотовездеход",
+            "image_CDN": "img_644.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "color": [62,8],
+            "crafting_components": [
+                {
+                    "component_id": 110,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 56,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 52,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 54,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 57,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 16,
+            "game_id": 743,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Военная пилотка",
+            "item_description": "Простейший военный головной убор из ткани",
+            "image_CDN": "img_1995.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 111,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 17,
+            "game_id": 744,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Деревянный автомат AK-47",
+            "item_description": "Хорошая реплика для боёв на детской площадке",
+            "image_CDN": "img_1996.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 113,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 47,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 18,
+            "game_id": 745,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Деревянный меч",
+            "item_description": "Интересно, а есть ли алмазный?",
+            "image_CDN": "img_1979.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 114,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 47,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 53,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 19,
+            "game_id": 6885,
+            "visibility": 1,
+            "item_category": 3,
+            "item_name": "Егерь",
+            "item_description": "Лесной стиль",
+            "image_CDN": "img_6885.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 5.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 117,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 44,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 55,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 51,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 20,
+            "game_id": 746,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Маска Ведро",
+            "item_description": "Когда очень хочется шлем, но хватило только на это",
+            "image_CDN": "img_1990.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 119,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 21,
+            "game_id": 747,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Маска из мешковины",
+            "item_description": "Будто мешок из под картошки, только с отверстиями",
+            "image_CDN": "img_1985.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 120,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 6
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 22,
+            "game_id": 748,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Маска кабана",
+            "item_description": "Маскарадая маска, как живая",
+            "image_CDN": "img_2007.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 121,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 82,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 23,
+            "game_id": 749,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Мягкая игрушка Голубь",
+            "item_description": "Детская игрушка, не летает",
+            "image_CDN": "img_1978.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 123,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 81,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 24,
+            "game_id": 750,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Солдатская каска",
+            "item_description": "Обыкновенная стальная каска",
+            "image_CDN": "img_1981.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 126,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 25,
+            "game_id": 751,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Шляпа рыбака",
+            "item_description": "Самое то для рыбалки под палящим солнцем",
+            "image_CDN": "img_1993.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 3.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 130,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 26,
+            "game_id": 6887,
+            "visibility": 1,
+            "item_category": 3,
+            "item_name": "Местный Шериф",
+            "item_description": "Участковый из глубинки",
+            "image_CDN": "img_6887.png",
+            "item_class_id": 3,
+            "stack": 1,
+            "crafting_time_sec": 1500,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 5.0,
+            "crafting_cost": 50000,
+            "crafting_exp": 2500,
+            "crafting_components": [
+                {
+                    "component_id": 134,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 53,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 65,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 27,
+            "game_id": 752,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Кухонная сковорода",
+            "item_description": "Можно котлеты пожарить, а можно и приложить",
+            "image_CDN": "img_1983.png",
+            "item_class_id": 3,
+            "stack": 1,
+            "crafting_time_sec": 1500,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 3.0,
+            "crafting_cost": 50000,
+            "crafting_exp": 2500,
+            "crafting_components": [
+                {
+                    "component_id": 135,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 42,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 66,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 28,
+            "game_id": 753,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Маска Пугало огородное",
+            "item_description": "Воронам точно не понравится",
+            "image_CDN": "img_2002.png",
+            "item_class_id": 3,
+            "stack": 1,
+            "crafting_time_sec": 1500,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 3.0,
+            "crafting_cost": 50000,
+            "crafting_exp": 2500,
+            "crafting_components": [
+                {
+                    "component_id": 136,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 6
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 53,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 29,
+            "game_id": 754,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Мексиканская гитара",
+            "item_description": "Странно, что к этой гитаре сомбреро в комплекте не идет",
+            "image_CDN": "img_2008.png",
+            "item_class_id": 3,
+            "stack": 1,
+            "crafting_time_sec": 1500,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 3.0,
+            "crafting_cost": 50000,
+            "crafting_exp": 2500,
+            "crafting_components": [
+                {
+                    "component_id": 137,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 47,
+                    "required_quantity": 15
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 30,
+            "game_id": 646,
+            "visibility": 1,
+            "item_category": 4,
+            "item_name": "Бекас",
+            "item_description": "По-летнему стильная машина",
+            "image_CDN": "img_646.png",
+            "item_class_id": 3,
+            "stack": 1,
+            "crafting_time_sec": 1500,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 0.0,
+            "crafting_cost": 50000,
+            "crafting_exp": 2500,
+            "color": [0,13],
+            "crafting_components": [
+                {
+                    "component_id": 139,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 173,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 61,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 62,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 64,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 31,
+            "game_id": 647,
+            "visibility": 1,
+            "item_category": 4,
+            "item_name": "Медведь",
+            "item_description": "Умело сделанный агрегат из того, что попалось под руки",
+            "image_CDN": "img_647.png",
+            "item_class_id": 4,
+            "stack": 1,
+            "crafting_time_sec": 2400,
+            "crafting_chance_percent": 0.25,
+            "item_weight": 0.0,
+            "crafting_cost": 160000,
+            "crafting_exp": 12500,
+            "color": [95,13],
+            "crafting_components": [
+                {
+                    "component_id": 143,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 69,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 61,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 63,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 64,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 32,
+            "game_id": 6886,
+            "visibility": 1,
+            "item_category": 3,
+            "item_name": "Щёголь",
+            "item_description": "В приличных местах в таком лучше не ходить",
+            "image_CDN": "img_6886.png",
+            "item_class_id": 4,
+            "stack": 1,
+            "crafting_time_sec": 2400,
+            "crafting_chance_percent": 0.25,
+            "item_weight": 5.0,
+            "crafting_cost": 160000,
+            "crafting_exp": 12500,
+            "crafting_components": [
+                {
+                    "component_id": 145,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 53,
+                    "required_quantity": 15
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 65,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 33,
+            "game_id": 755,
+            "visibility": 0,
+            "item_category": 2,
+            "item_name": "Мягкая игрушка Домовёнок",
+            "item_description": "Любимая игрушка детства",
+            "image_CDN": "img_2000.png",
+            "item_class_id": 4,
+            "stack": 1,
+            "crafting_time_sec": 2400,
+            "crafting_chance_percent": 0.25,
+            "item_weight": 3.0,
+            "crafting_cost": 160000,
+            "crafting_exp": 12500,
+            "crafting_components": [
+                {
+                    "component_id": 147,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 15
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 81,
+                    "required_quantity": 40
+                }
+            ]
+        },
+        {
+            "internal_id": 34,
+            "game_id": 756,
+            "visibility": 0,
+            "item_category": 2,
+            "item_name": "Школьный рюкзак Омэриканиц",
+            "item_description": "Рюкзак младшего брата",
+            "image_CDN": "img_1994.png",
+            "item_class_id": 4,
+            "stack": 1,
+            "crafting_time_sec": 2400,
+            "crafting_chance_percent": 0.25,
+            "item_weight": 3.0,
+            "crafting_cost": 160000,
+            "crafting_exp": 12500,
+            "crafting_components": [
+                {
+                    "component_id": 149,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 53,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 6
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 35,
+            "game_id": 757,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Шлем Череп",
+            "item_description": "Дизайнерский шлем, сугубо декоративный",
+            "image_CDN": "img_1988.png",
+            "item_class_id": 5,
+            "stack": 1,
+            "crafting_time_sec": 3600,
+            "crafting_chance_percent": 0.2,
+            "item_weight": 3.0,
+            "crafting_cost": 500000,
+            "crafting_exp": 62500,
+            "crafting_components": [
+                {
+                    "component_id": 150,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 66,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 36,
+            "game_id": 648,
+            "visibility": 1,
+            "item_category": 4,
+            "item_name": "Волколак",
+            "item_description": "Едет так, как и выглядит",
+            "image_CDN": "img_648.png",
+            "item_class_id": 5,
+            "stack": 1,
+            "crafting_time_sec": 3600,
+            "crafting_chance_percent": 0.2,
+            "item_weight": 0.0,
+            "crafting_cost": 500000,
+            "crafting_exp": 62500,
+            "color": [8,13],
+            "crafting_components": [
+                {
+                    "component_id": 155,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 72,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 71,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 68,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 64,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 37,
+            "game_id": 758,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Маска Ленин",
+            "item_description": "Маска исторической личности",
+            "image_CDN": "img_2004.png",
+            "item_class_id": 5,
+            "stack": 1,
+            "crafting_time_sec": 3600,
+            "crafting_chance_percent": 0.2,
+            "item_weight": 3.0,
+            "crafting_cost": 500000,
+            "crafting_exp": 62500,
+            "crafting_components": [
+                {
+                    "component_id": 153,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 53,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 38,
+            "game_id": 759,
+            "visibility": 1,
+            "item_category": 2,
+            "item_name": "Маска Сталин",
+            "item_description": "Маска исторической личности",
+            "image_CDN": "img_1989.png",
+            "item_class_id": 5,
+            "stack": 1,
+            "crafting_time_sec": 3600,
+            "crafting_chance_percent": 0.2,
+            "item_weight": 3.0,
+            "crafting_cost": 500000,
+            "crafting_exp": 62500,
+            "crafting_components": [
+                {
+                    "component_id": 154,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 53,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 39,
+            "game_id": 760,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Краска",
+            "item_description": "Краска универсальная, судя по всему",
+            "image_CDN": "img_9960.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 95,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 80,
+                    "required_quantity": 11
+                }
+            ]
+        },
+        {
+            "internal_id": 40,
+            "game_id": 761,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Алюминий",
+            "item_description": "Довольно легкий металл, уж точно легче железа",
+            "image_CDN": "img_5283.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 83,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 73,
+                    "required_quantity": 7
+                },
+                {
+                    "component_id": 80,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 41,
+            "game_id": 762,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "ВВ-40",
+            "item_description": "Техническая смазка, способная на многое",
+            "image_CDN": "img_5286.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 86,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 80,
+                    "required_quantity": 10
+                }
+            ]
+        },
+        {
+            "internal_id": 42,
+            "game_id": 763,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Железо",
+            "item_description": "Довольно прочный металл, но и достаточно тяжелый",
+            "image_CDN": "img_9966.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 90,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 75,
+                    "required_quantity": 9
+                }
+            ]
+        },
+        {
+            "internal_id": 43,
+            "game_id": 764,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Клей",
+            "item_description": "Клеит все от бумаги до металла, если верить рекламе",
+            "image_CDN": "img_5275.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 93,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 80,
+                    "required_quantity": 12
+                }
+            ]
+        },
+        {
+            "internal_id": 44,
+            "game_id": 765,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Кожа",
+            "item_description": "Выделанная шкура животного, мех, естестенно, отсутствует",
+            "image_CDN": "img_5284.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 94,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 82,
+                    "required_quantity": 10
+                }
+            ]
+        },
+        {
+            "internal_id": 45,
+            "game_id": 766,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Крепеж",
+            "item_description": "Болты, саморезы, кронштейны - все для монтажа",
+            "image_CDN": "img_5287.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 96,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 76,
+                    "required_quantity": 12
+                }
+            ]
+        },
+        {
+            "internal_id": 46,
+            "game_id": 767,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Нити",
+            "item_description": "Набор нитей различной толщины на все случаи жизни",
+            "image_CDN": "img_5291.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 98,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 81,
+                    "required_quantity": 8
+                }
+            ]
+        },
+        {
+            "internal_id": 47,
+            "game_id": 768,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Пиломатериалы",
+            "item_description": "Доска обработанная, крепкая",
+            "image_CDN": "img_10001.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 99,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 74,
+                    "required_quantity": 12
+                }
+            ]
+        },
+        {
+            "internal_id": 48,
+            "game_id": 769,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Пластик",
+            "item_description": "Катушка пластика, готовая принять любую форму",
+            "image_CDN": "img_5289.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 100,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 78,
+                    "required_quantity": 11
+                }
+            ]
+        },
+        {
+            "internal_id": 49,
+            "game_id": 770,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Резина",
+            "item_description": "Резиновая смесь, готовая для отливки",
+            "image_CDN": "img_9972.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 120,
+            "crafting_chance_percent": 0.7,
+            "item_weight": 0.0,
+            "crafting_cost": 1000,
+            "crafting_exp": 10,
+            "crafting_components": [
+                {
+                    "component_id": 102,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 77,
+                    "required_quantity": 10
+                }
+            ]
+        },
+        {
+            "internal_id": 50,
+            "game_id": 771,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Блок управления",
+            "item_description": "Простейшая многофункциональная плата в корпусе",
+            "image_CDN": "img_5826.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 108,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 79,
+                    "required_quantity": 15
+                },
+                {
+                    "component_id": 40,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 48,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 51,
+            "game_id": 772,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Ботинки",
+            "item_description": "Добротные кожаные ботинки",
+            "image_CDN": "img_5828.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 109,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 44,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 52,
+            "game_id": 773,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Двигатель Мотоцикла",
+            "item_description": "Простой двухтактный двигатель",
+            "image_CDN": "img_9999.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 112,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 42,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 41,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 53,
+            "game_id": 774,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Качественная кожа",
+            "item_description": "Мягкая, тонкая и в меру крепкая",
+            "image_CDN": "img_5285.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 115,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 44,
+                    "required_quantity": 6
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 54,
+            "game_id": 775,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Колесо Мотоцикла",
+            "item_description": "Колесо для мотоцикла",
+            "image_CDN": "img_9990.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 116,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 42,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 55,
+            "game_id": 776,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Маскировочная сеть",
+            "item_description": "Сделает носителя абсолютно незаметным, но в лесу",
+            "image_CDN": "img_9975.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 122,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 8
+                },
+                {
+                    "component_id": 81,
+                    "required_quantity": 20
+                }
+            ]
+        },
+        {
+            "internal_id": 56,
+            "game_id": 777,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Рама Внедорожный мотоцикл",
+            "item_description": "Простая сварная рама из бесшовной трубы",
+            "image_CDN": "img_9984.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 124,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 42,
+                    "required_quantity": 6
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 8
+                }
+            ]
+        },
+        {
+            "internal_id": 57,
+            "game_id": 778,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Руль Мотоцикла",
+            "item_description": "Руль Мотоциклаетный, обыкновенный, сделан из трубы",
+            "image_CDN": "img_5822.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 125,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 40,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 48,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 58,
+            "game_id": 779,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Сталь",
+            "item_description": "Высококачественный сплав, очень прочный",
+            "image_CDN": "img_5283.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 127,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 42,
+                    "required_quantity": 6
+                },
+                {
+                    "component_id": 73,
+                    "required_quantity": 6
+                }
+            ]
+        },
+        {
+            "internal_id": 59,
+            "game_id": 780,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Ткань",
+            "item_description": "Рулон однотонной ткани",
+            "image_CDN": "img_2649.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 128,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 6
+                }
+            ]
+        },
+        {
+            "internal_id": 60,
+            "game_id": 781,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Шестерни",
+            "item_description": "Произведение фрезерного искусства",
+            "image_CDN": "img_5280.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 129,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 42,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 40,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 61,
+            "game_id": 782,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Двигатель Автомобиля",
+            "item_description": "Четыре цилиндра, шестнадцать клапанов - классика",
+            "image_CDN": "img_9994.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 131,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 60,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 50,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 41,
+                    "required_quantity": 6
+                }
+            ]
+        },
+        {
+            "internal_id": 62,
+            "game_id": 783,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Колесо Автомобиля",
+            "item_description": "Колесо для автомобиля обыкновенное",
+            "image_CDN": "img_9998.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 132,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 63,
+            "game_id": 784,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Колесо Внедорожника",
+            "item_description": "Колесо с грязевой резиной",
+            "image_CDN": "img_9993.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 133,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 7
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 64,
+            "game_id": 785,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Руль Автомобиля",
+            "item_description": "Руль для автомобиля, выглядит спортивно",
+            "image_CDN": "img_10002.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 138,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 48,
+                    "required_quantity": 2
+                }
+            ]
+        },
+        {
+            "internal_id": 65,
+            "game_id": 786,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Туфли",
+            "item_description": "Очень удобная и практичная обувь",
+            "image_CDN": "img_5828.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 140,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 53,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 46,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 66,
+            "game_id": 787,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Сварочный аппарат",
+            "item_description": "Самодельный сварочный аппарат",
+            "image_CDN": "img_5281.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 141,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 50,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 67,
+            "game_id": 788,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Углепластик",
+            "item_description": "Нужен для изготовления карбоновых панелей",
+            "image_CDN": "img_5273.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 142,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 48,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 80,
+                    "required_quantity": 7
+                }
+            ]
+        },
+        {
+            "internal_id": 68,
+            "game_id": 789,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Колесо Спортивного Автомобиля",
+            "item_description": "Колесо с низкопрофильной резиной",
+            "image_CDN": "img_9992.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 450,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 0.0,
+            "crafting_cost": 32000,
+            "crafting_exp": 1250,
+            "crafting_components": [
+                {
+                    "component_id": 144,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 67,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 7
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 69,
+            "game_id": 790,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Кузов Внедорожника",
+            "item_description": "Кузов для рамного внедорожника",
+            "image_CDN": "img_9969.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 450,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 0.0,
+            "crafting_cost": 32000,
+            "crafting_exp": 1250,
+            "crafting_components": [
+                {
+                    "component_id": 146,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 7
+                },
+                {
+                    "component_id": 66,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 70,
+            "game_id": 791,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Улучшенный блок управления",
+            "item_description": "То же, что и обычный блок управления, только во всем лучше",
+            "image_CDN": "img_5830.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 450,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 0.0,
+            "crafting_cost": 32000,
+            "crafting_exp": 1250,
+            "crafting_components": [
+                {
+                    "component_id": 148,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 50,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 79,
+                    "required_quantity": 35
+                },
+                {
+                    "component_id": 67,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 71,
+            "game_id": 792,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Двигатель Спортивного Автомобиля",
+            "item_description": "Оппозитный форсированный двигатель",
+            "image_CDN": "img_10000.png",
+            "item_class_id": 5,
+            "stack": 99,
+            "crafting_time_sec": 720,
+            "crafting_chance_percent": 0.3,
+            "item_weight": 0.0,
+            "crafting_cost": 100000,
+            "crafting_exp": 6250,
+            "crafting_components": [
+                {
+                    "component_id": 151,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 60,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 6
+                },
+                {
+                    "component_id": 70,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 41,
+                    "required_quantity": 9
+                }
+            ]
+        },
+        {
+            "internal_id": 72,
+            "game_id": 793,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Кузов Спортивного Автомобиля",
+            "item_description": "Облегченный автомобильный кузов из пластиковых панелей",
+            "image_CDN": "img_9964.png",
+            "item_class_id": 5,
+            "stack": 99,
+            "crafting_time_sec": 720,
+            "crafting_chance_percent": 0.3,
+            "item_weight": 0.0,
+            "crafting_cost": 100000,
+            "crafting_exp": 6250,
+            "crafting_components": [
+                {
+                    "component_id": 152,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 67,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 6
+                },
+                {
+                    "component_id": 66,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 73,
+            "game_id": 794,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Бокситы",
+            "item_description": "Глинозем - основное сырье для производства алюминия",
+            "image_CDN": "img_9974.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 74,
+            "game_id": 795,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Древесина",
+            "item_description": "Кусок необработанного дерева, довольно качественный",
+            "image_CDN": "img_9997.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 75,
+            "game_id": 796,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Железная руда",
+            "item_description": "Требуется для производства железа",
+            "image_CDN": "img_5274.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 76,
+            "game_id": 797,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Металлолом",
+            "item_description": "Россыпь всяких мелочей из металла, в хозяйстве пригодится",
+            "image_CDN": "img_5270.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 77,
+            "game_id": 798,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Обрезки резины",
+            "item_description": "Можно попробовать еще раз подвергнуть вулканизации",
+            "image_CDN": "img_5272.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 78,
+            "game_id": 799,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Пластиковая бутылка",
+            "item_description": "Перерабатываемое сырье, как минимум, еще раз",
+            "image_CDN": "img_5292.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 79,
+            "game_id": 800,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Радиодетали",
+            "item_description": "Из этого можно даже радио собрать, была бы инструкция",
+            "image_CDN": "img_5278.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 80,
+            "game_id": 801,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Реагенты",
+            "item_description": "То, что без перчаток и респиратора трогать нежелательно",
+            "image_CDN": "img_5288.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 81,
+            "game_id": 802,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Текстильное волокно",
+            "item_description": "Кто-нибудь умелый сделал бы из этого веревку, например",
+            "image_CDN": "img_5271.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 82,
+            "game_id": 803,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Шкура животного",
+            "item_description": "Охотничий трофей, даже почти не пахнет",
+            "image_CDN": "img_9980.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 83,
+            "game_id": 804,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Алюминий",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 84,
+            "game_id": 805,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Балалайка",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 85,
+            "game_id": 806,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Боксерский шлем старшего брата",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 86,
+            "game_id": 807,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция ВВ-40",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 87,
+            "game_id": 808,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Деревянная корона",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 88,
+            "game_id": 809,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Деревянный шлем",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 89,
+            "game_id": 810,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Детский спасательный жилет",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 90,
+            "game_id": 811,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Железо",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 91,
+            "game_id": 812,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Камера от тракторного колеса",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 92,
+            "game_id": 813,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Кепка Таксист",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 93,
+            "game_id": 814,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Клей",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 94,
+            "game_id": 815,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Кожа",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 95,
+            "game_id": 816,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Краска",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 96,
+            "game_id": 817,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Крепеж",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 97,
+            "game_id": 818,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Маска пакет",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 98,
+            "game_id": 819,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Нити",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 99,
+            "game_id": 820,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Пиломатериалы",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 100,
+            "game_id": 821,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Пластик",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 101,
+            "game_id": 822,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Правая боксерская перчатка",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 102,
+            "game_id": 823,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Резина",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 103,
+            "game_id": 824,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Рога оленя",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 104,
+            "game_id": 825,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Шапка ушанка",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 1,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 105,
+            "game_id": 826,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Банная шапка BLACK RUSSIA",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 106,
+            "game_id": 827,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Банный веник",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 107,
+            "game_id": 828,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Баян",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 108,
+            "game_id": 829,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Блок управления",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 109,
+            "game_id": 830,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Ботинки",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 110,
+            "game_id": 831,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Анаконда",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 111,
+            "game_id": 832,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Военная пилотка",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 112,
+            "game_id": 833,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Двигатель Мотоцикла",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 113,
+            "game_id": 834,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Деревянный автомат AK-47",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 114,
+            "game_id": 835,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Деревянный меч",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 115,
+            "game_id": 836,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Качественная кожа",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 116,
+            "game_id": 837,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Колесо Мотоцикла",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 117,
+            "game_id": 838,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Образ Егерь",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 118,
+            "game_id": 839,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Маска",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 119,
+            "game_id": 840,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Маска Ведро",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 120,
+            "game_id": 841,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Маска из мешковины",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 121,
+            "game_id": 842,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Маска кабана",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 122,
+            "game_id": 843,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Маскировочная сеть",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 123,
+            "game_id": 844,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Мягкая игрушка Голубь",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 124,
+            "game_id": 845,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Рама Внедорожного мотоцикла",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 125,
+            "game_id": 846,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Руль Мотоцикла",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 126,
+            "game_id": 847,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Солдатская каска",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 127,
+            "game_id": 848,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Сталь",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 128,
+            "game_id": 849,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Ткань",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 129,
+            "game_id": 850,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Шестерни",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 130,
+            "game_id": 851,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Шляпа рыбака",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 131,
+            "game_id": 852,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Двигатель Автомобиля",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 132,
+            "game_id": 853,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Колесо Автомобиля",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 133,
+            "game_id": 854,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Колесо Внедорожникаа",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 134,
+            "game_id": 855,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Образ Местный Шериф",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 135,
+            "game_id": 856,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Кухонная сковорода",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 136,
+            "game_id": 857,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Маска Пугало огородное",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 137,
+            "game_id": 858,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Мексиканская гитара",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 138,
+            "game_id": 859,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Руль Автомобиля",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 139,
+            "game_id": 860,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Бекас",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 140,
+            "game_id": 861,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Туфли",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 141,
+            "game_id": 862,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Сварочный аппарат",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 142,
+            "game_id": 863,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Углепластик",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 143,
+            "game_id": 864,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Медведь",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 144,
+            "game_id": 865,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Колесо Спортивного автомобиля",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 145,
+            "game_id": 866,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Образ Щёголь",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 146,
+            "game_id": 867,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Кузов Внедорожникаа",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 147,
+            "game_id": 868,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Мягкая игрушка Домовёнок",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 148,
+            "game_id": 869,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Улучшенный блок управления",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 149,
+            "game_id": 870,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Школьный рюкзак Омэриканиц",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 150,
+            "game_id": 871,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Шлем Череп",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 5,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 151,
+            "game_id": 872,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Двигатель Спортивного автомобиля",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 5,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 152,
+            "game_id": 873,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Кузов Спортивного автомобиля",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 5,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 153,
+            "game_id": 874,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Маска Ленин",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 5,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 154,
+            "game_id": 875,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Маска Сталин",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 5,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 155,
+            "game_id": 876,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Волколак",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 5,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 156,
+            "game_id": 893,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Двигатель Моторной лодки",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 157,
+            "game_id": 894,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Корпус Деревянной лодки",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 158,
+            "game_id": 895,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Лахтак",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 159,
+            "game_id": 896,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Водостойкая ткань",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 160,
+            "game_id": 897,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Рама Багги",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 161,
+            "game_id": 898,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Рама Мотоцикла",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 162,
+            "game_id": 899,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Кузов Автомобиля",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 163,
+            "game_id": 900,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Корпус Металлической лодки",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 164,
+            "game_id": 901,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Каракал",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 165,
+            "game_id": 902,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Крайт",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 166,
+            "game_id": 903,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Ларга",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 167,
+            "game_id": 904,
+            "visibility": 0,
+            "item_category": 1,
+            "item_name": "Инструкция Акиба",
+            "image_CDN": "img_9973.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 0,
+            "crafting_chance_percent": 0.0,
+            "item_weight": 0.0,
+            "crafting_cost": 0,
+            "crafting_exp": 0
+        },
+        {
+            "internal_id": 168,
+            "game_id": 905,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Двигатель Моторной лодки",
+            "item_description": "Простой в обсуживании двигатель с хорошим потенциалом для тюнинга",
+            "image_CDN": "img_12302.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 156,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 40,
+                    "required_quantity": 6
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 3
+                },
+                {
+                    "component_id": 41,
+                    "required_quantity": 3
+                }
+            ]
+        },
+        {
+            "internal_id": 169,
+            "game_id": 906,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Корпус Деревянной лодки",
+            "item_description": "Корпус лодки из бруса, фанеры и досок",
+            "image_CDN": "img_12308.png",
+            "item_class_id": 2,
+            "stack": 99,
+            "crafting_time_sec": 180,
+            "crafting_chance_percent": 0.55,
+            "item_weight": 0.0,
+            "crafting_cost": 3000,
+            "crafting_exp": 50,
+            "crafting_components": [
+                {
+                    "component_id": 157,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 47,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 170,
+            "game_id": 907,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Водостойкая ткань",
+            "item_description": "Прорезиненная водостойкая ткань",
+            "image_CDN": "img_12304.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 159,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 59,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 49,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 10
+                }
+            ]
+        },
+        {
+            "internal_id": 171,
+            "game_id": 908,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Рама Багги",
+            "item_description": "Трубчатая рама, скрепленная болтами",
+            "image_CDN": "img_12306.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 160,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 7
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 8
+                }
+            ]
+        },
+        {
+            "internal_id": 172,
+            "game_id": 909,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Рама Мотоцикла",
+            "item_description": "Рама для дорожного мотоцикла",
+            "image_CDN": "img_12303.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 161,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 4
+                }
+            ]
+        },
+        {
+            "internal_id": 173,
+            "game_id": 910,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Кузов Автомобиля",
+            "item_description": "Для придания необходимой формы использовать сварку©",
+            "image_CDN": "img_12301.png",
+            "item_class_id": 3,
+            "stack": 99,
+            "crafting_time_sec": 300,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 10000,
+            "crafting_exp": 250,
+            "crafting_components": [
+                {
+                    "component_id": 162,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 7
+                },
+                {
+                    "component_id": 40,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 39,
+                    "required_quantity": 10
+                }
+            ]
+        },
+        {
+            "internal_id": 174,
+            "game_id": 911,
+            "visibility": 1,
+            "item_category": 1,
+            "item_name": "Корпус Металлической лодки",
+            "item_description": "Сварной каркас для моторной лодки, обшит металлом",
+            "image_CDN": "img_12307.png",
+            "item_class_id": 4,
+            "stack": 99,
+            "crafting_time_sec": 450,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 0.0,
+            "crafting_cost": 32000,
+            "crafting_exp": 1250,
+            "crafting_components": [
+                {
+                    "component_id": 163,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 5
+                },
+                {
+                    "component_id": 40,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 66,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 175,
+            "game_id": 653,
+            "visibility": 1,
+            "item_category": 4,
+            "item_name": "Лахтак",
+            "item_description": "Деревянная моторная лодка",
+            "image_CDN": "img_653.png",
+            "item_class_id": 2,
+            "stack": 1,
+            "crafting_time_sec": 900,
+            "crafting_chance_percent": 0.45,
+            "item_weight": 0.0,
+            "crafting_cost": 15000,
+            "crafting_exp": 500,
+            "crafting_components": [
+                {
+                    "component_id": 158,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 169,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 168,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 58,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 45,
+                    "required_quantity": 5
+                }
+            ]
+        },
+        {
+            "internal_id": 176,
+            "game_id": 649,
+            "visibility": 1,
+            "item_category": 4,
+            "item_name": "Каракал",
+            "item_description": "Легкий и шустрый багги",
+            "image_CDN": "img_649.png",
+            "item_class_id": 3,
+            "stack": 1,
+            "crafting_time_sec": 1500,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 0.0,
+            "crafting_cost": 50000,
+            "crafting_exp": 2500,
+            "color": [3,13],
+            "crafting_components": [
+                {
+                    "component_id": 164,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 171,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 61,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 63,
+                    "required_quantity": 4
+                },
+                {
+                    "component_id": 64,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 177,
+            "game_id": 652,
+            "visibility": 1,
+            "item_category": 4,
+            "item_name": "Крайт",
+            "item_description": "Мотоцикл для путешествий",
+            "image_CDN": "img_652.png",
+            "item_class_id": 3,
+            "stack": 1,
+            "crafting_time_sec": 1500,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 0.0,
+            "crafting_cost": 50000,
+            "crafting_exp": 2500,
+            "color": [20,13],
+            "crafting_components": [
+                {
+                    "component_id": 165,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 172,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 52,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 54,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 57,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 178,
+            "game_id": 651,
+            "visibility": 1,
+            "item_category": 4,
+            "item_name": "Ларга",
+            "item_description": "Резиновая моторная лодка",
+            "image_CDN": "img_651.png",
+            "item_class_id": 3,
+            "stack": 1,
+            "crafting_time_sec": 1500,
+            "crafting_chance_percent": 0.35,
+            "item_weight": 0.0,
+            "crafting_cost": 50000,
+            "crafting_exp": 2500,
+            "crafting_components": [
+                {
+                    "component_id": 166,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 170,
+                    "required_quantity": 10
+                },
+                {
+                    "component_id": 67,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 43,
+                    "required_quantity": 20
+                },
+                {
+                    "component_id": 168,
+                    "required_quantity": 1
+                }
+            ]
+        },
+        {
+            "internal_id": 179,
+            "game_id": 655,
+            "visibility": 1,
+            "item_category": 4,
+            "item_name": "Акиба",
+            "item_description": "Металлическая моторная лодка",
+            "image_CDN": "img_655.png",
+            "item_class_id": 4,
+            "stack": 1,
+            "crafting_time_sec": 2400,
+            "crafting_chance_percent": 0.25,
+            "item_weight": 0.0,
+            "crafting_cost": 160000,
+            "crafting_exp": 12500,
+            "color": [28,28],
+            "crafting_components": [
+                {
+                    "component_id": 167,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 174,
+                    "required_quantity": 1
+                },
+                {
+                    "component_id": 168,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 66,
+                    "required_quantity": 2
+                },
+                {
+                    "component_id": 64,
+                    "required_quantity": 1
+                }
+            ]
+        }
+    ]
+}

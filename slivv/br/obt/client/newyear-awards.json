@@ -1,0 +1,253 @@
+{
+    "awardsTop": [
+        {
+            "description": "Lykan HyperSport",
+            "place": 1,
+            "description_store": "Livan Sport"
+        },
+        {
+            "description": "Lotus Exige Halloween",
+            "place": 2,
+            "description_store": "Halloween Car"
+        },
+        {
+            "description": "Dodge Ram",
+            "place": 3,
+            "description_store": "Dogger 4x4"
+        },
+        {
+            "description": "Subaru BRZ",
+            "place": 4,
+            "description_store": "Syberia BR"
+        },
+        {
+            "description": "Хакер - Крэкер",
+            "place": 5
+        },
+        {
+            "description": "Весна",
+            "place": 6
+        },
+        {
+            "description": "Танцор",
+            "place": 7
+        },
+        {
+            "description": "VIP Platinum 30 д.",
+            "place": 8
+        },
+        {
+            "description": "VIP Gold 30 д.",
+            "place": 9
+        },
+        {
+            "description": "VIP Bronze 30 д.",
+            "place": 10
+        }
+    ],
+    "awardsLevel": [
+		{
+            "description": "null",
+            "place": 0
+        },
+        {
+            "description": "Деньги: 1500",
+            "place": 1
+        },
+        {
+            "description": "Опыт: 1 ед.",
+            "place": 2
+        },
+        {
+            "description": "Деньги: 2000",
+            "place": 3
+        },
+        {
+            "description": "Донат: 2 BC",
+            "place": 4
+        },
+        {
+            "description": "Летняя доска",
+            "place": 5
+        },
+        {
+            "description": "Деньги: 3000",
+            "place": 6
+        },
+        {
+            "description": "Донат: 3 BC",
+            "place": 7
+        },
+        {
+            "description": "VIP Silver 2 ч.",
+            "place": 8
+        },
+        {
+            "description": "Деньги: 4000",
+            "place": 9
+        },
+        {
+            "description": "Одежда: Шляпник из Алисы",
+            "place": 10
+        },
+        {
+            "description": "Донат: 3 BC",
+            "place": 11
+        },
+        {
+            "description": "Без награды",
+            "place": 12
+        },
+        {
+            "description": "Деньги: 6000",
+            "place": 13
+        },
+        {
+            "description": "Опыт: 2",
+            "place": 14
+        },
+        {
+            "description": "VIP Gold 3 ч.",
+            "place": 15
+        },
+        {
+            "description": "Донат: 3 BC",
+            "place": 16
+        },
+        {
+            "description": "Деньги: 6000",
+            "place": 17
+        },
+        {
+            "description": "Без награды",
+            "place": 18
+        },
+        {
+            "description": "Опыт: 2",
+            "place": 19
+        },
+        {
+            "description": "Временный MB G63 на 3ч.",
+            "place": 20,
+            "description_store": "Временный Gelik на 3ч."
+        },
+        {
+            "description": "Деньги: 7000",
+            "place": 21
+        },
+        {
+            "description": "VIP Gold 5 ч.",
+            "place": 22
+        },
+        {
+            "description": "Без награды",
+            "place": 23
+        },
+        {
+            "description": "Опыт: 3",
+            "place": 24
+        },
+        {
+            "description": "Деньги: 20000",
+            "place": 25
+        },
+        {
+            "description": "Донат: 3 BC",
+            "place": 26
+        },
+        {
+            "description": "100 очков BP",
+            "place": 27
+        },
+        {
+            "description": "Без награды",
+            "place": 28
+        },
+        {
+            "description": "VIP Gold 10 ч.",
+            "place": 29
+        },
+        {
+            "description": "Рюкзак 'Котик'",
+            "place": 30
+        },
+        {
+            "description": "Донат: 4 BC",
+            "place": 31
+        },
+        {
+            "description": "Деньги: 8000",
+            "place": 32
+        },
+        {
+            "description": "Опыт: 4",
+            "place": 33
+        },
+        {
+            "description": "Временный Urus на 6 ч.",
+            "place": 34,
+            "description_store": "Временный Lumus на 6 ч."
+        },
+        {
+            "description": "Одежда: Емеля",
+            "place": 35
+        },
+        {
+            "description": "VIP Platinum 3 ч.",
+            "place": 36
+        },
+        {
+            "description": "Без награды",
+            "place": 37
+        },
+        {
+            "description": "Донат: 4 BC",
+            "place": 38
+        },
+        {
+            "description": "Опыт: 4",
+            "place": 39
+        },
+        {
+            "description": "Деньги: 50000",
+            "place": 40
+        },
+        {
+            "description": "VIP Platinum 3 дня",
+            "place": 41
+        },
+        {
+            "description": "Без награды",
+            "place": 42
+        },
+        {
+            "description": "Временный Huracan на 6 ч.",
+            "place": 43,
+            "description_store": "Временный Uragan на 6 ч."
+        },
+        {
+            "description": "Без награды",
+            "place": 44
+        },
+        {
+            "description": "Опыт: 5",
+            "place": 45
+        },
+        {
+            "description": "VIP Platinum на 3 дня",
+            "place": 46
+        },
+        {
+            "description": "Аксессуар: Крылья Ангела",
+            "place": 47
+        },
+        {
+            "description": "Одежда: Весна",
+            "place": 48
+        },
+        {
+            "description": "HyperSport НАВСЕГДА",
+            "place": 49
+        }
+    ]
+}

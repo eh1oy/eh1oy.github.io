@@ -1,0 +1,358 @@
+[
+  {
+    "directoryName": "cars",
+    "directoryId": 0,
+    "items": [
+      {
+        "itemName": "Багги",
+        "itemId": 0,
+        "itemDescription": "description",
+        "craftingChance": 4,
+        "itemWeight": 99999,
+        "modelId": 400,
+        "itemValue" : 1,
+        "directoryId": 0,
+        "materials": [
+          {
+            "materialName": "Инструкция для 'Багги'",
+            "materialId": 0,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Рама от 'Багги'",
+            "materialId": 1,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Колесо от 'Багги'",
+            "materialId": 2,
+            "modelId": 400,
+            "value": 4,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 2
+          },
+          {
+            "materialName": "Двигатель от 'Багги'",
+            "materialId": 3,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 3
+          },
+          {
+            "materialName": "Руль",
+            "materialId": 4,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          }
+        ]
+      },
+      {
+        "itemName": "Самодельный внедорожник",
+        "itemId": 1,
+        "itemDescription": "description",
+        "craftingChance": 3,
+        "itemWeight": 99999,
+        "modelId": 400,
+        "itemValue" : 1,
+        "directoryId": 0,
+        "materials": [
+          {
+            "materialName": "Инструкция для 'Самодельный внедорожник'",
+            "materialId": 0,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Кузов 'Внедорожник'",
+            "materialId": 1,
+            "modelId": 400,
+            "value": 4,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Колесо от 'Внедорожник'",
+            "materialId": 2,
+            "modelId": 400,
+            "value": 4,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Двигатель от 'Внедорожник'",
+            "materialId": 3,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Руль",
+            "materialId": 4,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "directoryName": "toys",
+    "directoryId": 1,
+    "items": [
+      {
+        "itemName": "Радиоуправляемый танк",
+        "itemId": 0,
+        "itemDescription": "description",
+        "craftingChance": 3,
+        "itemWeight": 99999,
+        "modelId": 400,
+        "itemValue" : 1,
+        "directoryId": 1,
+        "materials": [
+          {
+            "materialName": "Инструкция для 'Радиоуправляемый танк'",
+            "materialId": 0,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Корпус от 'Радиоуправляемый танк'",
+            "materialId": 1,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Радиопередатчик",
+            "materialId": 2,
+            "modelId": 400,
+            "value": 3,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Рама от 'Радиоуправляемый танк'",
+            "materialId": 3,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "directoryName": "skins",
+    "directoryId": 2,
+    "items": [
+      {
+        "itemName": "Пожарный",
+        "itemId": 0,
+        "itemDescription": "description",
+        "craftingChance": 1,
+        "itemWeight": 99999,
+        "modelId": 400,
+        "itemValue" : 1,
+        "directoryId": 2,
+        "materials": [
+          {
+            "materialName": "Инструкция для 'Пожарный'",
+            "materialId": 0,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Негорящая резина",
+            "materialId": 1,
+            "modelId": 400,
+            "value": 5,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Пластик",
+            "materialId": 2,
+            "modelId": 400,
+            "value": 10,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          },
+          {
+            "materialName": "Негорящая ткань",
+            "materialId": 3,
+            "modelId": 400,
+            "value": 5,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "directoryName": "accessories",
+    "directoryId": 3,
+    "items": [
+      {
+        "itemName": "Кепка 'Бунтарь'",
+        "itemId": 0,
+        "itemDescription": "description",
+        "craftingChance": 0,
+        "itemWeight": 3,
+        "modelId": 400,
+        "itemValue" : 1,
+        "directoryId": 3,
+        "materials": [
+          {
+            "materialName": "",
+            "materialId": 0,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          }
+        ]
+      },
+      {
+        "itemName": "Кепка 'Мятежник'",
+        "itemId": 1,
+        "itemDescription": "description",
+        "craftingChance": 0,
+        "itemWeight": 3,
+        "modelId": 400,
+        "itemValue" : 1,
+        "directoryId": 3,
+        "materials": [
+          {
+            "materialName": "",
+            "materialId": 0,
+            "modelId": 400,
+            "value": 1,
+            "description": "description",
+            "weight": 3,
+            "place": [
+              "завод",
+              "работа"
+            ],
+            "skill_level": 1
+          }
+        ]
+      }
+    ]
+  }
+]
